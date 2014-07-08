@@ -5,6 +5,7 @@ A curated list of amazingly awesome awesomeness
 - Programming Languages
 	- [Go](https://github.com/avelino/awesome-go)
 	- [PHP](https://github.com/ziadoz/awesome-php)
+	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Python](https://github.com/vinta/awesome-python)
 	- Ruby
 		- [by @markets](https://github.com/markets/awesome-ruby)
