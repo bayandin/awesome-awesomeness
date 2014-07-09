@@ -3,6 +3,7 @@
 A curated list of amazingly awesome awesomeness
 
 - Programming Languages
+	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- [Go](https://github.com/avelino/awesome-go)
 	- [PHP](https://github.com/ziadoz/awesome-php)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
