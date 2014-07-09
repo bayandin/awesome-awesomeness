@@ -17,5 +17,6 @@ A curated list of amazingly awesome awesomeness
 	- [Scala](https://github.com/lauris/awesome-scala)
 - IT
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
