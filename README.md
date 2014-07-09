@@ -3,6 +3,7 @@
 A curated list of amazingly awesome awesomeness
 
 - Programming Languages
+	- [Bash](https://github.com/alebcay/awesome-shell)
 	- [Cobol](https://github.com/dshimy/awesome-cobol)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
