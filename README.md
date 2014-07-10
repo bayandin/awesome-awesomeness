@@ -14,7 +14,8 @@ A curated list of amazingly awesome awesomeness
 		- [by @markets](https://github.com/markets/awesome-ruby)
 		- [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 	- [Scala](https://github.com/lauris/awesome-scala)
-- IT
+
+- General
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
