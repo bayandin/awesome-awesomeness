@@ -3,7 +3,8 @@
 A curated list of amazingly awesome awesomeness
 
 - General
-	- [Frontend dev](https://gist.github.com/dypsilon/5819504)
+	- [Frontend dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+	- [Favicon](https://github.com/audreyr/favicon-cheat-sheet)
 - Programming Languages
 	- [Bash](https://github.com/alebcay/awesome-shell)
 	- [D](https://github.com/zhaopuming/awesome-d)
