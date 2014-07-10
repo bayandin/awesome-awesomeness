@@ -4,6 +4,7 @@ A curated list of amazingly awesome awesomeness
 
 - Programming Languages
 	- [Bash](https://github.com/alebcay/awesome-shell)
+	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- [Go](https://github.com/avelino/awesome-go)
