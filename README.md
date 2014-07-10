@@ -18,5 +18,6 @@ A curated list of amazingly awesome awesomeness
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
