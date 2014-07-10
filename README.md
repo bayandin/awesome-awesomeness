@@ -2,9 +2,6 @@
 
 A curated list of amazingly awesome awesomeness
 
-- General
-	- [Frontend dev](https://github.com/dypsilon/frontend-dev-bookmarks)
-	- [Favicon](https://github.com/audreyr/favicon-cheat-sheet)
 - Programming Languages
 	- [Bash](https://github.com/alebcay/awesome-shell)
 	- [D](https://github.com/zhaopuming/awesome-d)
@@ -21,5 +18,6 @@ A curated list of amazingly awesome awesomeness
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
