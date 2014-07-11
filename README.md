@@ -8,9 +8,10 @@ A curated list of amazingly awesome awesomeness
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- [Go](https://github.com/avelino/awesome-go)
-	- [PHP](https://github.com/ziadoz/awesome-php)
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
+	- [Node.js](https://github.com/vndmtrx/awesome-nodejs)
+	- [PHP](https://github.com/ziadoz/awesome-php)
 	- [Python](https://github.com/vinta/awesome-python)
 	- Ruby
 		- [by @markets](https://github.com/markets/awesome-ruby)
