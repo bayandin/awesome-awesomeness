@@ -8,6 +8,7 @@ A curated list of amazingly awesome awesomeness
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- [Go](https://github.com/avelino/awesome-go)
+	- [Groovy](https://github.com/kdabir/awesome-groovy)
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Node.js](https://github.com/vndmtrx/awesome-nodejs)
