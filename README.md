@@ -7,6 +7,7 @@ A curated list of amazingly awesome awesomeness
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
+	- [Erlang](https://github.com/0xAX/erlang-bookmarks)
 	- [Go](https://github.com/avelino/awesome-go)
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
