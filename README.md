@@ -27,3 +27,4 @@ A curated list of amazingly awesome awesomeness
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
+	- [Android](https://github.com/JStumpp/awesome-android)
