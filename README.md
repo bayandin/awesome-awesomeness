@@ -19,6 +19,7 @@ A curated list of amazingly awesome awesomeness
 		- [by @markets](https://github.com/markets/awesome-ruby)
 		- [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 	- [Scala](https://github.com/lauris/awesome-scala)
+	- [Swift](https://github.com/Wolg/awesome-swift)
 
 - General
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
