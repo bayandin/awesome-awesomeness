@@ -19,6 +19,10 @@ A curated list of amazingly awesome awesomeness
 		- [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 	- [Scala](https://github.com/lauris/awesome-scala)
 	- [Shell](https://github.com/alebcay/awesome-shell)
+	- Swift
+		- [by @matteocrippa](https://github.com/matteocrippa/awesome-swift)
+		- [by @Wolg](https://github.com/Wolg/awesome-swift)
+		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
 - General
 	- [Android](https://github.com/JStumpp/awesome-android)
