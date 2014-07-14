@@ -26,6 +26,7 @@ A curated list of amazingly awesome awesomeness
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
+	- [iOS](https://github.com/vsouza/awesome-ios)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Android](https://github.com/JStumpp/awesome-android)
