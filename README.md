@@ -25,6 +25,7 @@ A curated list of amazingly awesome awesomeness
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 	- Books
 		- [Free Programming Books](https://github.com/vhf/free-programming-books)
+		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
 	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
