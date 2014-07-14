@@ -23,6 +23,8 @@ A curated list of amazingly awesome awesomeness
 - General
 	- [Android](https://github.com/JStumpp/awesome-android)
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+	- Books
+		- [Free Programming Books](https://github.com/vhf/free-programming-books)
 	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
