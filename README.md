@@ -28,5 +28,6 @@ A curated list of amazingly awesome awesomeness
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [iOS](https://github.com/vsouza/awesome-ios)
+	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
