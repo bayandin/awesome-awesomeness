@@ -3,7 +3,6 @@
 A curated list of amazingly awesome awesomeness
 
 - Programming Languages
-	- [Bash](https://github.com/alebcay/awesome-shell)
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
@@ -19,6 +18,7 @@ A curated list of amazingly awesome awesomeness
 		- [by @markets](https://github.com/markets/awesome-ruby)
 		- [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 	- [Scala](https://github.com/lauris/awesome-scala)
+ 	- [Shell](https://github.com/alebcay/awesome-shell)
 
 - General
 	- [Android](https://github.com/JStumpp/awesome-android)
