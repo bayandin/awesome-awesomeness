@@ -7,8 +7,8 @@ A curated list of amazingly awesome awesomeness
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- Erlang
-	       - [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
-               - [by @pyotrgalois](https://github.com/pyotrgalois/spawnedshelter)
+		- [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
+		- [by @pyotrgalois](https://github.com/pyotrgalois/spawnedshelter)
 	- [Go](https://github.com/avelino/awesome-go)
 	- [Groovy](https://github.com/kdabir/awesome-groovy)
 	- [Java](https://github.com/akullpp/awesome-java)
