@@ -13,7 +13,9 @@ A curated list of amazingly awesome awesomeness
 	- [Groovy](https://github.com/kdabir/awesome-groovy)
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
-		- [Node.js](https://github.com/vndmtrx/awesome-nodejs)
+		- Node.js
+			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
+			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
 	- [.NET](https://github.com/quozd/awesome-dotnet)
 	- [PHP](https://github.com/ziadoz/awesome-php)
 	- [Python](https://github.com/vinta/awesome-python)
