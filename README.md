@@ -18,6 +18,7 @@ A curated list of amazingly awesome awesomeness
 	- [PHP](https://github.com/ziadoz/awesome-php)
 	- [Python](https://github.com/vinta/awesome-python)
 	- Ruby
+		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
 		- [by @markets](https://github.com/markets/awesome-ruby)
 		- [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 	- [Scala](https://github.com/lauris/awesome-scala)
