@@ -31,6 +31,7 @@ A curated list of amazingly awesome awesomeness
 		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
 - General
+	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 	- [Android](https://github.com/JStumpp/awesome-android)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
