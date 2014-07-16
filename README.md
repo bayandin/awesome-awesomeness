@@ -3,6 +3,7 @@
 A curated list of amazingly awesome awesomeness
 
 - Programming Languages
+	- [.NET](https://github.com/quozd/awesome-dotnet) 
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
