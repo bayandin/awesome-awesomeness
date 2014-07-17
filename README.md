@@ -9,6 +9,7 @@ A curated list of amazingly awesome awesomeness
 	- Erlang
 		- [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
 		- [by @pyotrgalois](https://github.com/pyotrgalois/spawnedshelter)
+	- [FORTRAN](https://github.com/rabbiabram/awesome-fortran)
 	- [Go](https://github.com/avelino/awesome-go)
 	- [Groovy](https://github.com/kdabir/awesome-groovy)
 	- [Java](https://github.com/akullpp/awesome-java)
