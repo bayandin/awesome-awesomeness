@@ -5,6 +5,7 @@ A curated list of amazingly awesome awesomeness
 - Programming Languages
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
+	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- Erlang
