@@ -23,6 +23,7 @@ A curated list of amazingly awesome awesomeness
 	- [Perl](https://github.com/mackee/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
 	- [Python](https://github.com/vinta/awesome-python)
+	- [R](https://github.com/qinwf/awesome-R)
 	- Ruby
 		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
 		- [by @markets](https://github.com/markets/awesome-ruby)
