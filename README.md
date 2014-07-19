@@ -46,6 +46,7 @@ A curated list of amazingly awesome awesomeness
 	- Books
 		- [Free Programming Books](https://github.com/vhf/free-programming-books)
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
+	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
