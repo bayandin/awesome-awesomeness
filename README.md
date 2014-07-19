@@ -14,6 +14,7 @@ A curated list of amazingly awesome awesomeness
 	- [Fortran](https://github.com/rabbiabram/awesome-fortran)
 	- [Go](https://github.com/avelino/awesome-go)
 	- [Groovy](https://github.com/kdabir/awesome-groovy)
+	- [Haskell](https://github.com/krispo/awesome-haskell)
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
 		- Node.js
