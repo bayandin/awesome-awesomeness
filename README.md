@@ -49,6 +49,7 @@ A curated list of amazingly awesome awesomeness
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
+	- [Flask](https://github.com/humiaozuzu/awesome-flask)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [iOS](https://github.com/vsouza/awesome-ios)
