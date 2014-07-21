@@ -57,3 +57,4 @@ A curated list of amazingly awesome awesomeness
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+	- [Game Development](https://github.com/ellisonleao/magictools)
