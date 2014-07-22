@@ -56,5 +56,6 @@ A curated list of amazingly awesome awesomeness
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
+	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
