@@ -50,6 +50,7 @@ A curated list of amazingly awesome awesomeness
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
