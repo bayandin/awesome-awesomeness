@@ -40,6 +40,7 @@ A curated list of amazingly awesome awesomeness
 - General
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 	- [Android](https://github.com/JStumpp/awesome-android)
+  - [Android Security](https://github.com/ashishb/android-security-awesome)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
