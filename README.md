@@ -54,6 +54,9 @@ A curated list of amazingly awesome awesomeness
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+	- Rails
+		- [by @dpaluy](https://github.com/dpaluy/awesome-rails)
+		- [by @ekremkaraca](https://github.com/ekremkaraca/awesome-rails)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
