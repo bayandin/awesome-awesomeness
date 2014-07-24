@@ -21,6 +21,7 @@ A curated list of amazingly awesome awesomeness
 			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
 	- [.NET](https://github.com/quozd/awesome-dotnet)
+	- [OCaml](https://github.com/rizo/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
 	- [Python](https://github.com/vinta/awesome-python)
