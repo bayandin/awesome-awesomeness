@@ -61,6 +61,10 @@ A curated list of amazingly awesome awesomeness
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+- Learning Resources
+	- [Treehouse](http://teamtreehouse.com)
+	- [Codecademy](http://codecademy.com)
+	- [Code School](http://codeschool.com)
 
 ## License
 
