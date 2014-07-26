@@ -20,11 +20,14 @@ A curated list of amazingly awesome awesomeness
 		- Node.js
 			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
+    - [Julia](http://svaksha.github.io/Julia.jl)
 	- [.NET](https://github.com/quozd/awesome-dotnet)
 	- [OCaml](https://github.com/rizo/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
-	- [Python](https://github.com/vinta/awesome-python)
+	- Python
+        - [by @vinta](https://github.com/vinta/awesome-python)
+        - [by @svaksha](http://svaksha.github.io/boidae)
 	- [R](https://github.com/qinwf/awesome-R)
 	- Ruby
 		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
