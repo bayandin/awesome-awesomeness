@@ -54,6 +54,7 @@ A curated list of amazingly awesome awesomeness
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Game Development](https://github.com/ellisonleao/magictools)
+	- [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
