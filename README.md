@@ -25,7 +25,9 @@ A curated list of amazingly awesome awesomeness
 	- [OCaml](https://github.com/rizo/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
-	- [Python](https://github.com/vinta/awesome-python)
+	- Python
+		- [by @svaksha](https://github.com/svaksha/pythonidae)
+		- [by @vinta](https://github.com/vinta/awesome-python)
 	- [R](https://github.com/qinwf/awesome-R)
 	- Ruby
 		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
