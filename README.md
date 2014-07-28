@@ -59,6 +59,7 @@ A curated list of amazingly awesome awesomeness
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [iOS](https://github.com/vsouza/awesome-ios)
+	- [Laravel Framework](https://github.com/tuwannu/awesome-laravel)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
