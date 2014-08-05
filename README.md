@@ -3,6 +3,7 @@
 A curated list of amazingly awesome awesomeness
 
 - Programming Languages
+	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
@@ -46,7 +47,6 @@ A curated list of amazingly awesome awesomeness
 	- [Android](https://github.com/JStumpp/awesome-android)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
-	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
