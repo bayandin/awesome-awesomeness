@@ -54,6 +54,7 @@ A curated list of amazingly awesome awesomeness
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
+	- [Databases](https://github.com/numetriclabz/AwesomeDB)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Game Development](https://github.com/ellisonleao/magictools)
