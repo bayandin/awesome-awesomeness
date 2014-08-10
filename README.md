@@ -49,7 +49,9 @@ A curated list of amazingly awesome awesomeness
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
 	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
-	- [Big data](https://github.com/onurakpolat/awesome-bigdata)
+	- Big data
+		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
+		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 	- Books
 		- [Free Programming Books](https://github.com/vhf/free-programming-books)
