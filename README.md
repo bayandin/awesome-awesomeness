@@ -21,6 +21,8 @@ A curated list of amazingly awesome awesomeness
 		- Node.js
 			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
+		- Angular.js
+			- [compiled by Thinkster](http://www.thinkster.io/angularjs/GtaQ0oMGIl/a-better-way-to-learn-angularjs)
 	- [Julia](https://github.com/svaksha/Julia.jl)
 	- [Lua](https://github.com/forhappy/awesome-lua)
 	- [.NET](https://github.com/quozd/awesome-dotnet)
