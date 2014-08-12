@@ -73,6 +73,7 @@ A curated list of amazingly awesome awesomeness
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+	- [Vim](https://github.com/akrawchyk/awesome-vim)
 
 ## License
 
