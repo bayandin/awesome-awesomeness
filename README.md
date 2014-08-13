@@ -73,7 +73,9 @@ A curated list of amazingly awesome awesomeness
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
-	- [Vim](https://github.com/matteocrippa/awesome-vim)
+	- Vim
+		-[by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
+		-[by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 
 ## License
 
