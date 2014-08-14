@@ -74,8 +74,8 @@ A curated list of amazingly awesome awesomeness
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- Vim
-		-[by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
-		-[by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
+		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
+		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 
 ## License
 
