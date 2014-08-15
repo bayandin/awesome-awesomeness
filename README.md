@@ -1,6 +1,6 @@
 # Awesome Awesomeness
 
-A curated list of amazingly awesome awesomeness
+A curated list of amazingly awesome awesomeness. Please read the [CONTRIBUTING.md](https://github.com/bayandin/awesome-awesomeness/blob/master/CONTRIBUTING.md) before contributing.
 
 - Programming Languages
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
