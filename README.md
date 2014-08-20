@@ -8,6 +8,7 @@ A curated list of amazingly awesome awesomeness
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 	- [D](https://github.com/zhaopuming/awesome-d)
+	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- Erlang
 		- [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
