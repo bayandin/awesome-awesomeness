@@ -48,6 +48,7 @@ A curated list of amazingly awesome awesomeness
 
 - General
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
+	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
