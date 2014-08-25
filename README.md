@@ -39,6 +39,7 @@ A curated list of amazingly awesome awesomeness
 		- [by @markets](https://github.com/markets/awesome-ruby)
 		- [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 	- [Rust](https://github.com/kud1ing/awesome-rust)
+	- [SARL](https://github.com/sarl/awesome-sarl)
 	- [Scala](https://github.com/lauris/awesome-scala)
 	- [Shell](https://github.com/alebcay/awesome-shell)
 	- Swift
