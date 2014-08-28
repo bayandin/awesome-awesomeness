@@ -19,6 +19,8 @@ A curated list of amazingly awesome awesomeness
 	- [Haskell](https://github.com/krispo/awesome-haskell)
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
+		- AngularJs
+			- [by @gianarb](https://github.com/gianarb/awesome-angularjs)
 		- Node.js
 			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
