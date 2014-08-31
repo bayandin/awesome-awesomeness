@@ -33,6 +33,7 @@ A curated list of amazingly awesome awesomeness
 	- Python
 		- [by @svaksha](https://github.com/svaksha/pythonidae)
 		- [by @vinta](https://github.com/vinta/awesome-python)
+		- [by @kirang89](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
 	- [R](https://github.com/qinwf/awesome-R)
 	- Ruby
 		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
