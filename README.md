@@ -74,6 +74,7 @@ A curated list of amazingly awesome awesomeness
 	- [iOS](https://github.com/vsouza/awesome-ios)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
+	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
