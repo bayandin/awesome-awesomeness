@@ -31,6 +31,7 @@ A curated list of amazingly awesome awesomeness
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
 	- Python
+		- [by @kirang89](https://github.com/kirang89/pycrumbs)
 		- [by @svaksha](https://github.com/svaksha/pythonidae)
 		- [by @vinta](https://github.com/vinta/awesome-python)
 	- [R](https://github.com/qinwf/awesome-R)
