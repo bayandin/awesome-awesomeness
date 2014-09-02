@@ -84,6 +84,9 @@ A curated list of amazingly awesome awesomeness
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 
+- Other
+	- [Radio](https://github.com/kyleterry/awesome-radio)
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
