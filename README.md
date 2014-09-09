@@ -64,6 +64,7 @@ A curated list of amazingly awesome awesomeness
 	- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 	- [Conferences](https://github.com/RichardLitt/awesome-conferences)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
+	- [Creative Commons Media](https://github.com/shime/creative-commons-media)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
