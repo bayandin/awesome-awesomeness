@@ -75,6 +75,7 @@ A curated list of amazingly awesome awesomeness
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
