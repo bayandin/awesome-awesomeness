@@ -79,6 +79,7 @@ A curated list of amazingly awesome awesomeness
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
+	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
