@@ -78,6 +78,7 @@ A curated list of amazingly awesome awesomeness
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
+	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
