@@ -53,7 +53,10 @@ A curated list of amazingly awesome awesomeness
 	- [Android](https://github.com/JStumpp/awesome-android)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
-	- [Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+	- Awesomeness
+		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
+		- [by @sindresorhus](https://github.com/sindresorhus/awesome)
+		- [by @t3chnoboy](https://github.com/t3chnoboy/awesome-awesome-awesome)
 	- Big data
 		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
 		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
