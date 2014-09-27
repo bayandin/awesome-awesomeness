@@ -69,6 +69,7 @@ A curated list of amazingly awesome awesomeness
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [Docker](https://github.com/veggiemonk/awesome-docker)
+	- [Documentation](https://github.com/PharkMillups/beautiful-docs)
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
