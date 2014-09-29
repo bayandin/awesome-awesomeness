@@ -1,6 +1,6 @@
 # Awesome Awesomeness
 
-A curated list of amazingly awesome awesomeness
+A curated list of amazingly awesome awesomeness. Now available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
 
 - Programming Languages
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
