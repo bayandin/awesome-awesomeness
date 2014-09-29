@@ -73,6 +73,7 @@ A curated list of amazingly awesome awesomeness
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
+	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
