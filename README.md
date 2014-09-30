@@ -5,6 +5,7 @@ A curated list of amazingly awesome awesomeness
 - Programming Languages
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
+		- [Qt](https://github.com/skhaz/awesome-qt)
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 	- [D](https://github.com/zhaopuming/awesome-d)
