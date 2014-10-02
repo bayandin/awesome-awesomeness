@@ -48,6 +48,7 @@ A curated list of amazingly awesome awesomeness
 		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
 - General
+	- [Advanced Custom Field (WP Plugin)](https://github.com/reyhoun/awesome-acf)
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
