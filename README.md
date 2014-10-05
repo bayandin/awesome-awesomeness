@@ -65,6 +65,8 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Conferences](https://github.com/RichardLitt/awesome-conferences)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Creative Commons Media](https://github.com/shime/creative-commons-media)
+	- Cryptographic networks
+		- [by @cyberFund (Ru)](https://github.com/cyberFund/cyberDigest)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
