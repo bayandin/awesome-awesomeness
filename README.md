@@ -77,6 +77,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
+	- [Koans](https://github.com/ahmdrefat/awesome-koans)
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
 		- [by @jnv](https://github.com/jnv/lists)
