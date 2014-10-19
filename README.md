@@ -83,6 +83,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @jnv](https://github.com/jnv/lists)
 		- [by @sindresorhus](https://github.com/sindresorhus/awesome)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+	- [Mesos](https://github.com/parolkar/awesome-mesos)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
