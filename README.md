@@ -95,6 +95,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- Vim
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
+	-[WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 
 ## License
 
