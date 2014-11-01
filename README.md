@@ -50,6 +50,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 
 - General
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
+		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
