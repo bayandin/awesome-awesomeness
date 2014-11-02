@@ -73,6 +73,10 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Documentation](https://github.com/PharkMillups/beautiful-docs)
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
+    - Frameworks
+        - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
+        - [Rails](https://github.com/ekremkaraca/awesome-rails)
+        - [Symfony](https://github.com/EmanueleMinotto/awesome-symfony2)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
