@@ -86,6 +86,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
+	- [Self Hosted](https://github.com/juandecarrion/awesome-self-hosted)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
