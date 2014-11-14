@@ -86,6 +86,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
+	- [React](https://github.com/enaqx/awesome-react)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
@@ -97,6 +98,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- Vim
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
+	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 
