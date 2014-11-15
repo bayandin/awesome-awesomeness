@@ -87,6 +87,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
+	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
