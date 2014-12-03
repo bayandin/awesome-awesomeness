@@ -88,6 +88,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
+	- [Sheet Music](https://github.com/adius/awesome-sheet-music)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
