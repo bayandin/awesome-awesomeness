@@ -67,6 +67,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Continuous Delivery](https://github.com/itech001/ciandcd)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Creative Commons Media](https://github.com/shime/creative-commons-media)
+	- [Continuous Delivery](https://github.com/itech001/ciandcd)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	- [Datasets](https://github.com/caesar0301/awesome-public-datasets)
