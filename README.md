@@ -77,6 +77,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Game Development](https://github.com/ellisonleao/magictools)
+	- [Github](https://github.com/Kikobeats/awesome-github)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
