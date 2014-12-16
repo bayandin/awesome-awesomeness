@@ -4,7 +4,8 @@ A curated list of amazingly awesome awesomeness.
 Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
 
 - Programming Languages
-	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+    - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+    - [C](https://github.com/kozross/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [Clojure](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
