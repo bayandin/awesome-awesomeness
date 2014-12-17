@@ -13,6 +13,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- Erlang
 		- [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
+		- [by @drobakowski](https://github.com/drobakowski/awesome-erlang)
 		- [by @pyotrgalois](https://github.com/pyotrgalois/spawnedshelter)
 	- [Fortran](https://github.com/rabbiabram/awesome-fortran)
 	- [Go](https://github.com/avelino/awesome-go)
