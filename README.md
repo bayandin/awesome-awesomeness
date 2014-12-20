@@ -4,8 +4,6 @@ A curated list of amazingly awesome awesomeness.
 Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.zeef.com/alexander.bayandin)
 
 - Programming Languages
- 
-        - [Assembler](https://github.com/mat0thew/awesome-asm)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [C](https://github.com/kozross/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
