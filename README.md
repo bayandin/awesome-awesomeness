@@ -17,7 +17,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- Erlang
 		- [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
 		- [by @drobakowski](https://github.com/drobakowski/awesome-erlang)
-		- [by @pyotrgalois](https://github.com/pyotrgalois/spawnedshelter)
+		- [by @unbalancedparentheses](https://github.com/unbalancedparentheses/spawnedshelter)
 	- [Fortran](https://github.com/rabbiabram/awesome-fortran)
 	- [Go](https://github.com/avelino/awesome-go)
 	- [Groovy](https://github.com/kdabir/awesome-groovy)
