@@ -12,8 +12,8 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 	- [Common Lisp](https://github.com/kozross/awesome-cl)
 	- [D](https://github.com/zhaopuming/awesome-d)
-	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
-	- [Elixir](https://github.com/h4cc/awesome-elixir)
+	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi) -  ![](https://img.shields.io/github/stars/Fr0sT-Brutal/awesome-delphi.svg)
+	- [Elixir](https://github.com/h4cc/awesome-elixir) -  ![](https://img.shields.io/github/stars/h4cc/awesome-elixir.svg?style=flat-square)
 	- Erlang
 		- [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
 		- [by @drobakowski](https://github.com/drobakowski/awesome-erlang)
