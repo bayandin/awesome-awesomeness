@@ -95,6 +95,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
+	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sheet Music](https://github.com/adius/awesome-sheet-music)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
