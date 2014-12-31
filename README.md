@@ -89,7 +89,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
-	- [Linux resources}(https://github.com/itech001/awesome-linux-resources)
+	- [Linux resources](https://github.com/itech001/awesome-linux-resources)
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
 		- [by @jnv](https://github.com/jnv/lists)
