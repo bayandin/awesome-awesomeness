@@ -83,6 +83,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
 	- [Game Development](https://github.com/ellisonleao/magictools)
+	- [Game Talks](https://github.com/hzoo/awesome-gametalks)
 	- [GIF](https://github.com/Kikobeats/awesome-gif)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
