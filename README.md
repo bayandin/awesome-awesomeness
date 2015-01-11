@@ -88,6 +88,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
+	- [iOS & Android](https://github.com/Navideck-fotis/awesome-ios-android)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
