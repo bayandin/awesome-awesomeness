@@ -85,6 +85,8 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [GIF](https://github.com/Kikobeats/awesome-gif)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
+		- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
