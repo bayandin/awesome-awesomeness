@@ -115,6 +115,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
+	- [Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 
 ## License
 
