@@ -87,6 +87,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Images](https://github.com/heyalexej/awesome-images)
+	- [Internet of Things](https://github.com/phodal/awesome-iot)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
 	- Lists
