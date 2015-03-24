@@ -102,6 +102,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sheet Music](https://github.com/adius/awesome-sheet-music)
+	- [Slack](https://github.com/matiassingers/awesome-slack)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
