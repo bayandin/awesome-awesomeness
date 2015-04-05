@@ -27,6 +27,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- Node.js
 			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
+		- [React](https://github.com/enaqx/awesome-react)
 	- [Julia](https://github.com/svaksha/Julia.jl)
 	- Lua
 		- [by @forhappy](https://github.com/forhappy/awesome-lua)
