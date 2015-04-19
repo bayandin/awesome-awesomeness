@@ -110,6 +110,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
+		- [Gaming](https://github.com/hzoo/awesome-gametalks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- Vim
