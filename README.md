@@ -75,6 +75,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Courses](https://github.com/prakhar1989/awesome-courses)
 	- [Creative Commons Media](https://github.com/shime/creative-commons-media)
 	- [Cryptography](https://github.com/MaciejCzyzewski/retter)
+	- [CSS](https://github.com/sota0805/awesome-css)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	- [Datasets](https://github.com/caesar0301/awesome-public-datasets)
