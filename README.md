@@ -95,7 +95,9 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Games](https://github.com/leereilly/games)
 	- [GIF](https://github.com/Kikobeats/awesome-gif)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
-	- [Guides](https://github.com/narkoz/guides)
+	- Guides
+		- [by @narkoz](https://github.com/narkoz/guides)
+		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
@@ -121,7 +123,6 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Sheet Music](https://github.com/adius/awesome-sheet-music)
 	- [Slack](https://github.com/matiassingers/awesome-slack)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
