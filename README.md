@@ -96,6 +96,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [iOS](https://github.com/vsouza/awesome-ios)
 		- [Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
+	- [Lego](https://github.com/adius/awesome-lego)
 	- [Linux resources](https://github.com/itech001/awesome-linux-resources)
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
