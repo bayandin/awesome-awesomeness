@@ -53,6 +53,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
 - General
+	- [.htaccess](https://github.com/phanan/htaccess)
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
