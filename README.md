@@ -87,7 +87,9 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
-	- [Frontend Dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+	- Frontend
+		- [by @dypsilon](https://github.com/dypsilon/frontend-dev-bookmarks)
+		- [by @moklick](https://github.com/moklick/frontend-stuff)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [GIF](https://github.com/Kikobeats/awesome-gif)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
