@@ -85,6 +85,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Docker](https://github.com/veggiemonk/awesome-docker)
 	- [Documentation](https://github.com/PharkMillups/beautiful-docs)
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
+	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
 	- [Free Services](https://github.com/ripienaar/free-for-dev)
