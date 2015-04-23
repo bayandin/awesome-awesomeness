@@ -31,7 +31,9 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- Lua
 		- [by @forhappy](https://github.com/forhappy/awesome-lua)
 		- [by @lewisjellis](https://github.com/LewisJEllis/awesome-lua)
-	- [.NET](https://github.com/quozd/awesome-dotnet)
+	- .NET
+		- [by @quozd](https://github.com/quozd/awesome-dotnet)
+		- [by @tallesl](https://github.com/tallesl/.NET-libraries)
 	- [OCaml](https://github.com/rizo/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
