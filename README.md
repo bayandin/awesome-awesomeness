@@ -44,6 +44,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
 		- [by @markets](https://github.com/markets/awesome-ruby)
 		- [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
+	- [SAS](https://github.com/huyingjie/awesome-SAS)
 	- [Rust](https://github.com/kud1ing/awesome-rust)
 	- [Scala](https://github.com/lauris/awesome-scala)
 	- [Shell](https://github.com/alebcay/awesome-shell)
