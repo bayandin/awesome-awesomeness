@@ -118,6 +118,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+	- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
 	- [Security](https://github.com/sbilly/awesome-security)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sheet Music](https://github.com/adius/awesome-sheet-music)
