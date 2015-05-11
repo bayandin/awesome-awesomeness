@@ -62,6 +62,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [Android UI](https://github.com/wasabeef/awesome-android-ui)
 	- [API](https://github.com/Kikobeats/awesome-api)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
+	- [Arduino](https://github.com/krescruz/awesome-arduino)
 	- Big data
 		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
 		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
