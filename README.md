@@ -122,6 +122,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sheet Music](https://github.com/adius/awesome-sheet-music)
 	- [Slack](https://github.com/matiassingers/awesome-slack)
+	- [Space](https://github.com/elburz/awesome-space)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [SVG](https://github.com/willianjusten/awesome-svg)
