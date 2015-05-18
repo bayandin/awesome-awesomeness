@@ -95,6 +95,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Games](https://github.com/leereilly/games)
 	- [GIF](https://github.com/Kikobeats/awesome-gif)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
+	- [Gists](https://github.com/vsouza/awesome-gists)
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
