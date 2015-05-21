@@ -40,6 +40,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @svaksha](https://github.com/svaksha/pythonidae)
 		- [by @vinta](https://github.com/vinta/awesome-python)
 	- [R](https://github.com/qinwf/awesome-R)
+	- [Regex](https://github.com/aloisdg/awesome-regex)
 	- Ruby
 		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
 		- [by @markets](https://github.com/markets/awesome-ruby)
