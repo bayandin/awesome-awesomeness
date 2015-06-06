@@ -112,6 +112,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @jnv](https://github.com/jnv/lists)
 		- [by @sindresorhus](https://github.com/sindresorhus/awesome)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+	- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
