@@ -129,6 +129,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+	- [UI Styleguide](https://github.com/kevinwuhoo/ui-styleguides)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- Vim
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
