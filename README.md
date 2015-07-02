@@ -132,7 +132,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Unity](https://github.com/RyanNielson/awesome-unity)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- Vim
-		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
+	- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
