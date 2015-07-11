@@ -99,6 +99,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @narkoz](https://github.com/narkoz/guides)
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
+	- [Honeypots](https://github.com/paralax/awesome-honeypots)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 		- [Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
