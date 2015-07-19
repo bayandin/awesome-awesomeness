@@ -131,7 +131,9 @@ A curated list of amazingly awesome awesomeness.
 		- [by @moklick](https://github.com/moklick/frontend-stuff)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [Games](https://github.com/leereilly/games)
-	- [GIF](https://github.com/Kikobeats/awesome-gif)
+	- GIF
+		- [by @Kikobeats](https://github.com/Kikobeats/awesome-gif)
+		- [by @Syskaw](https://github.com/Syskaw/awesome-gif)
 	- [Gists](https://github.com/vsouza/awesome-gists)
 	- [Git](https://github.com/dictcp/awesome-git)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
