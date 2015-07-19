@@ -93,7 +93,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @moklick](https://github.com/moklick/frontend-stuff)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [Games](https://github.com/leereilly/games)
-	- [GIF](https://github.com/Kikobeats/awesome-gif)
+	- [GIF](https://github.com/Syskaw/awesome-gif)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
