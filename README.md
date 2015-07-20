@@ -114,6 +114,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
 	- [Open Science](https://github.com/silky/awesome-open-science)
+	- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
