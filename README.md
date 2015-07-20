@@ -172,6 +172,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @webpro](https://github.com/webpro/awesome-newsletters)
 	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 	- [Open Science](https://github.com/silky/awesome-open-science)
+	- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
 	- [Pipelines](https://github.com/pditommaso/awesome-pipeline)
