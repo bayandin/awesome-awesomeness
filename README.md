@@ -113,6 +113,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @sindresorhus](https://github.com/sindresorhus/awesome)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
+	- [Newsletters](https://github.com/webpro/awesome-newsletters)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
