@@ -79,6 +79,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Cryptography](https://github.com/MaciejCzyzewski/retter)
 	- [CSS](https://github.com/sota0805/awesome-css)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
+	- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	- [Datasets](https://github.com/caesar0301/awesome-public-datasets)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
