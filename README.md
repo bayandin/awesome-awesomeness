@@ -8,7 +8,9 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Assembler](https://github.com/mat0thew/awesome-asm)
 	- [C](https://github.com/kozross/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
-	- [Clojure](https://github.com/razum2um/awesome-clojure)
+	- Clojure
+		- [by @mbuczko](https://github.com/mbuczko/awesome-clojure)
+		- [by @razum2um](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 	- [Common Lisp](https://github.com/kozross/awesome-cl)
 	- [D](https://github.com/zhaopuming/awesome-d)
