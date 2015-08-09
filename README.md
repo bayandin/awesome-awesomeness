@@ -53,6 +53,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Shell](https://github.com/alebcay/awesome-shell)
 	- Swift
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-swift)
+		- [by @MaxChen](https://github.com/MaxChen/awesome-swift-and-tutorial-resources)
 		- [by @Wolg](https://github.com/Wolg/awesome-swift)
 		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
 
