@@ -117,6 +117,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
+	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 	- [Security](https://github.com/sbilly/awesome-security)
