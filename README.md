@@ -54,7 +54,9 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 
 - General
 	- [.htaccess](https://github.com/phanan/htaccess)
-	- [Accessibility](https://github.com/a11yproject/a11yproject.com)
+	- Accessibility
+		- [by @a11yproject](https://github.com/a11yproject/a11yproject.com)
+		- [by @brunopulis](https://github.com/brunopulis/awesome-a11y)
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
