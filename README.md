@@ -33,6 +33,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- Lua
 		- [by @forhappy](https://github.com/forhappy/awesome-lua)
 		- [by @lewisjellis](https://github.com/LewisJEllis/awesome-lua)
+	- [MySQL](https://github.com/shlomi-noach/awesome-mysql)
 	- .NET
 		- [by @quozd](https://github.com/quozd/awesome-dotnet)
 		- [by @tallesl](https://github.com/tallesl/.NET-libraries)
