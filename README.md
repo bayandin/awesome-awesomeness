@@ -105,7 +105,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @moklick](https://github.com/moklick/frontend-stuff)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [Games](https://github.com/leereilly/games)
-	- [GIF](https://github.com/Kikobeats/awesome-gif)
+	- [GIF](https://github.com/Syskaw/awesome-gif)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
 		- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 	- Guides
@@ -127,6 +127,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
 	- [Open Science](https://github.com/silky/awesome-open-science)
+	- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
