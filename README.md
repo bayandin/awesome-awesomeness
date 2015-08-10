@@ -77,7 +77,9 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
 		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
-	- [Bitcoin](https://github.com/btcbrdev/awesome-btcdev)
+	- Bitcoin
+		- [by @btcbrdev](https://github.com/btcbrdev/awesome-btcdev)
+		- [by @igorbarinov](https://github.com/igorbarinov/awesome-bitcoin)
 	- [Boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
 	- Books
 		- [Free Programming Books](https://github.com/vhf/free-programming-books)
