@@ -137,6 +137,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [README](https://github.com/matiassingers/awesome-readme)
+	- [Regex](https://github.com/aloisdg/awesome-regex)
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 	- [REST](https://github.com/marmelab/awesome-rest)
