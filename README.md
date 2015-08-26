@@ -130,6 +130,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
 		- [by @jnv](https://github.com/jnv/lists)
 		- [by @sindresorhus](https://github.com/sindresorhus/awesome)
+	- [Mac OS X](https://github.com/xyNNN/awesome-mac)
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 	- [Material Design](https://github.com/sachin1092/awesome-material)
