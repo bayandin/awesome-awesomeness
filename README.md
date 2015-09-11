@@ -72,6 +72,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [Android UI](https://github.com/wasabeef/awesome-android-ui)
 	- [API](https://github.com/Kikobeats/awesome-api)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
+		- [OS X](https://github.com/iCHAIT/awesome-osx) 
 		- [OS X and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome)
 	- Big data
 		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
