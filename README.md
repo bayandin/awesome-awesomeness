@@ -111,6 +111,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Games](https://github.com/leereilly/games)
 	- [GIF](https://github.com/Kikobeats/awesome-gif)
 	- [Gists](https://github.com/vsouza/awesome-gists)
+  - [Git](https://github.com/dictcp/awesome-git)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
 		- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 	- [Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking)
