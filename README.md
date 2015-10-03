@@ -114,6 +114,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
 		- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 	- [Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking)
+    - [Motion Design for Web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
