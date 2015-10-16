@@ -119,6 +119,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Images](https://github.com/heyalexej/awesome-images)
+	- [Internet of Things (IOT)](https://github.com/HQarroum/awesome-iot)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 		- [Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
 		- [UI](https://github.com/cjwirth/awesome-ios-ui)
