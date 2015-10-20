@@ -125,6 +125,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [JSON](https://github.com/burningtree/awesome-json)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
 	- [Lego](https://github.com/adius/awesome-lego)
+	- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 	- [Linux resources](https://github.com/itech001/awesome-linux-resources)
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
