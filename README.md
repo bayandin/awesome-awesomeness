@@ -41,6 +41,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [OCaml](https://github.com/rizo/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
+	- [Postgres](https://github.com/dhamaniasad/awesome-postgres)
 	- Python
 		- [by @kirang89](https://github.com/kirang89/pycrumbs)
 		- [by @svaksha](https://github.com/svaksha/pythonidae)
