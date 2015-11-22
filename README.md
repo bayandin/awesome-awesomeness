@@ -103,6 +103,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
+	- [For Girls](https://github.com/cristianoliveira/awesome4girls)
 	- [Free Services](https://github.com/ripienaar/free-for-dev)
 	- Frontend
 		- [by @dypsilon](https://github.com/dypsilon/frontend-dev-bookmarks)
