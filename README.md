@@ -113,6 +113,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Gists](https://github.com/vsouza/awesome-gists)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
 		- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+	- [GraphQL](https://github.com/chentsulin/awesome-graphql)
 	- [Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking)
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
