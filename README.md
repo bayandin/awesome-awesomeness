@@ -104,6 +104,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
 	- [Free Services](https://github.com/ripienaar/free-for-dev)
+	- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 	- Frontend
 		- [by @dypsilon](https://github.com/dypsilon/frontend-dev-bookmarks)
 		- [by @moklick](https://github.com/moklick/frontend-stuff)
