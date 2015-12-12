@@ -58,6 +58,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @MaxChen](https://github.com/MaxChen/awesome-swift-and-tutorial-resources)
 		- [by @Wolg](https://github.com/Wolg/awesome-swift)
 		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
+		- [by @hsavit1](https://github.com/hsavit1/Awesome-Swift-Education)
 
 - General
 	- [.htaccess](https://github.com/phanan/htaccess)
@@ -137,6 +138,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
+	- [Quantum Computation](https://github.com/hsavit1/Awesome-Quantum-Computation)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [README](https://github.com/matiassingers/awesome-readme)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
