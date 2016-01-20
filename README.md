@@ -136,6 +136,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Nginx](https://github.com/fcambus/nginx-resources)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
+	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [README](https://github.com/matiassingers/awesome-readme)
