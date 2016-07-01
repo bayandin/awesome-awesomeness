@@ -156,6 +156,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
+	- [Telegram](https://github.com/ebertti/awesome-telegram)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- Vim
