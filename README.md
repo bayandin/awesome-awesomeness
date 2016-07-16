@@ -153,6 +153,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [SVG](https://github.com/willianjusten/awesome-svg)
+	- [Swedish](https://github.com/gurre/awesome-swedish-opensource)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
