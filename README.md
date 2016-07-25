@@ -164,6 +164,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 	- [Workshops](https://github.com/therebelrobot/awesome-workshopper)
+	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 
 ## License
 
