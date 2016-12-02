@@ -155,6 +155,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sheet Music](https://github.com/adius/awesome-sheet-music)
 	- [Slack](https://github.com/matiassingers/awesome-slack)
+	- [Sound](https://github.com/hwclass/awesome-sound)
 	- [Space](https://github.com/elburz/awesome-space)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Static Analysis](https://github.com/mre/awesome-static-analysis/)
