@@ -134,6 +134,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @narkoz](https://github.com/narkoz/guides)
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
+	- [CSS](https://github.com/sota0805/awesome-css)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [Internet of Things (IOT)](https://github.com/HQarroum/awesome-iot)
 	- [iOS](https://github.com/vsouza/awesome-ios)
