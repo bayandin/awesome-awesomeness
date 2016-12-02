@@ -92,6 +92,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 	- [Conferences](https://github.com/RichardLitt/awesome-conferences)
 	- [Continuous Delivery](https://github.com/itech001/ciandcd)
+	- [Conversational UI](https://github.com/mortenjust/awesome-conversational/)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Courses](https://github.com/prakhar1989/awesome-courses)
 	- [Creative Commons Media](https://github.com/shime/creative-commons-media)
