@@ -13,6 +13,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @razum2um](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 	- [Common Lisp](https://github.com/kozross/awesome-cl)
+	- [Crystal](https://github.com/veelenga/awesome-crystal)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
