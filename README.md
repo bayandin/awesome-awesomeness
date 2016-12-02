@@ -147,6 +147,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Regex](https://github.com/aloisdg/awesome-regex)
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+	- [Robotics](https://github.com/Kiloreux/awesome-robotics)
 	- [REST](https://github.com/marmelab/awesome-rest)
 	- [RNN](https://github.com/kjw0612/awesome-rnn)
 	- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
