@@ -138,6 +138,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Self-hosted](https://github.com/Kickball/awesome-selfhosted)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
+	- [Pentester](https://github.com/m1guelpiedrafita/awestome-pentester)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [README](https://github.com/matiassingers/awesome-readme)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
