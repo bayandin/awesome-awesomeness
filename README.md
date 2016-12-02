@@ -5,6 +5,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 
 - Programming Languages
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 	- [Assembler](https://github.com/mat0thew/awesome-asm)
 	- [C](https://github.com/kozross/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
