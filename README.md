@@ -185,6 +185,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
 	- [Telegram](https://github.com/ebertti/awesome-telegram)
+	- [Test Automation](https://github.com/atinfo/awesome-test-automation)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- Vim
