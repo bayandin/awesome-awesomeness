@@ -165,6 +165,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Space](https://github.com/elburz/awesome-space)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Static Analysis](https://github.com/mre/awesome-static-analysis/)
+	- [Startup](https://github.com/KrishMunot/awesome-startup)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Swedish](https://github.com/gurre/awesome-swedish-opensource)
