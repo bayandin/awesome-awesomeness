@@ -12,7 +12,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @mbuczko](https://github.com/mbuczko/awesome-clojure)
 		- [by @razum2um](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-	- [Common Lisp](https://github.com/kozross/awesome-cl)
+ 	- [Common Lisp](https://github.com/CodyReichert/awesome-cl)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
@@ -39,7 +39,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [MySQL](https://github.com/shlomi-noach/awesome-mysql)
 	- .NET
 		- [by @quozd](https://github.com/quozd/awesome-dotnet)
-		- [by @tallesl](https://github.com/tallesl/.NET-libraries)
+ 		- [by @tallesl](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier)
 	- [OCaml](https://github.com/rizo/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
@@ -60,7 +60,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-swift)
 		- [by @MaxChen](https://github.com/MaxChen/awesome-swift-and-tutorial-resources)
 		- [by @Wolg](https://github.com/Wolg/awesome-swift)
-		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
+ 		- [from ZEEF by @Edubits](https://swift.zeef.com/robin.eggenkamp)
 	- [TypeScript](https://github.com/dzharii/awesome-typescript)
 
 - General
@@ -95,7 +95,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Challenges](https://github.com/mauriciovieira/awesome-challenges)
 	- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 	- [Conferences](https://github.com/RichardLitt/awesome-conferences)
-	- [Continuous Delivery](https://github.com/itech001/ciandcd)
+ 	- [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 	- [Conversational UI](https://github.com/mortenjust/awesome-conversational/)
 	- [Cordova](https://github.com/busterc/awesome-cordova)
 	- [Courses](https://github.com/prakhar1989/awesome-courses)
@@ -103,7 +103,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- Cryptography
 		- [by @MaciejCzyzewski](https://github.com/MaciejCzyzewski/retter)
 		- [by @sobolevn](https://github.com/sobolevn/awesome-cryptography)
-	- [CSS](https://github.com/sota0805/awesome-css)
+ 	- [CSS](https://github.com/sotayamashita/awesome-css)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	 	- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
