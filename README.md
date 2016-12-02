@@ -23,6 +23,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @unbalancedparentheses](https://github.com/unbalancedparentheses/spawnedshelter)
 	- [Fortran](https://github.com/rabbiabram/awesome-fortran)
 	- [Go](https://github.com/avelino/awesome-go)
+	- [Go Patterns](https://github.com/tmrts/go-patterns)
 	- [Groovy](https://github.com/kdabir/awesome-groovy)
 	- [Haskell](https://github.com/krispo/awesome-haskell)
 	- [Java](https://github.com/akullpp/awesome-java)
