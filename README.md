@@ -59,6 +59,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @MaxChen](https://github.com/MaxChen/awesome-swift-and-tutorial-resources)
 		- [by @Wolg](https://github.com/Wolg/awesome-swift)
 		- [from ZEEF by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
+	- [TypeScript](https://github.com/dzharii/awesome-typescript)
 
 - General
 	- [.htaccess](https://github.com/phanan/htaccess)
