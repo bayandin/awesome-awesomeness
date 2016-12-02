@@ -70,6 +70,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
 		- [Big O Notation](https://github.com/okulbilisim/awesome-big-o)
+	- [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
