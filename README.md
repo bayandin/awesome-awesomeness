@@ -152,6 +152,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Slack](https://github.com/matiassingers/awesome-slack)
 	- [Space](https://github.com/elburz/awesome-space)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+	- [Startup](https://github.com/KrishMunot/awesome-startup)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
