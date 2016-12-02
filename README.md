@@ -79,6 +79,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Arduino](https://github.com/Lembed/Awesome-arduino)
 	- [API](https://github.com/Kikobeats/awesome-api)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
+		- [OS X](https://github.com/iCHAIT/awesome-osx) 
 		- [OS X and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome)
 	- [Beacons](https://github.com/beaconinside/awesome-ibeacon-eddystone-beacon)
 	- Big data
