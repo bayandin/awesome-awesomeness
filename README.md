@@ -139,6 +139,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
 		- [UI](https://github.com/cjwirth/awesome-ios-ui)
 	- [JSON](https://github.com/burningtree/awesome-json)
+	- [JVM](https://github.com/deephacks/awesome-jvm)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
 	- [Lego](https://github.com/adius/awesome-lego)
 	- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
