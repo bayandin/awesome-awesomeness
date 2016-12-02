@@ -155,6 +155,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
+	- [Sound](https://github.com/hwclass/awesome-sound)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
