@@ -140,6 +140,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- [Pentester](https://github.com/m1guelpiedrafita/awestome-pentester)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
+	- [React Native](https://github.com/jondot/awesome-react-native)
 	- [README](https://github.com/matiassingers/awesome-readme)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
