@@ -152,6 +152,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Random-Forest](https://github.com/kjw0612/awesome-random-forest)
 	- [README](https://github.com/matiassingers/awesome-readme)
 	- [React Native](https://github.com/jondot/awesome-react-native)
+	- [README](https://github.com/matiassingers/awesome-readme)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
