@@ -108,6 +108,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 		- [by @sobolevn](https://github.com/sobolevn/awesome-cryptography)
  	- [CSS](https://github.com/sotayamashita/awesome-css)
 	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
+	- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 	 	- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 	- [Datasets](https://github.com/caesar0301/awesome-public-datasets)
