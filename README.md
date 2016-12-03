@@ -94,6 +94,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- Books
 		- [Free Programming Books](https://github.com/vhf/free-programming-books)
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
+		- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 	- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 	- [Challenges](https://github.com/mauriciovieira/awesome-challenges)
 	- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
