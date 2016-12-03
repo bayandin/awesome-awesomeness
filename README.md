@@ -118,6 +118,7 @@ Also available on: [Awesome-Awesomeness.ZEEF.com](https://awesome-awesomeness.ze
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
+	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
 	- [Free Services](https://github.com/ripienaar/free-for-dev)
 	- Frontend
