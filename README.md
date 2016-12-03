@@ -131,9 +131,9 @@ A curated list of amazingly awesome awesomeness.
 	- [Gists](https://github.com/vsouza/awesome-gists)
 	- [Git](https://github.com/dictcp/awesome-git)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
+		- [Awesome Toolkits for Github](https://github.com/xohozu/awesome-toolkit)
 		- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 		- [GitHub - Chinese](https://github.com/AntBranch/awesome-github)
-		- [Awesome Toolkits for Github](https://github.com/xohozu/awesome-toolkit)
 	- [GraphQL](https://github.com/chentsulin/awesome-graphql)
 	- [Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking)
 	- Guides
