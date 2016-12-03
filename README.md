@@ -8,7 +8,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Assembler](https://github.com/mat0thew/awesome-asm)
 	- [C](https://github.com/kozross/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
-	- Clojure
+	- Clojure 
 		- [by @mbuczko](https://github.com/mbuczko/awesome-clojure)
 		- [by @razum2um](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
