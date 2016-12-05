@@ -6,7 +6,8 @@ fail 'Please provide a summary in the Pull Request description' if github.pr_bod
 
 # Warn if PR guideline boxes are not checked.
 warn 'Please check PR guidelines and check the boxes.' if github.pr_body.include? '- [ ]'
- 
+# Warn the user if pull request fields remain unchanged
+warn 'Please replace **[Insert URL to the list here.]** with the URL to the list.' if github.pr_body.include? '**[Insert URL to the list here.]**'
 # Warn if pull request is not updated
 warn 'Please update the Pull Request title to contain the script name' if github.pr_title.include? 'Update README.md'
 
