@@ -13,7 +13,7 @@ fail 'Please replace **[Explain what this list is about and why it should be inc
 fail 'Please update the Pull Request title to contain the script name' if github.pr_title.include? 'Update README.md'
 
 # Warn when there are merge commits in the diff
-warn 'Please rebase to get rid of the merge commits in this Pull Request' if git.commits.any? { |c| c.message =~ /^Merge branch 'master'/ }
+fail 'Please rebase to get rid of the merge commits in this Pull Request' if git.commits.any? { |c| c.message =~ /^Merge branch 'master'/ }
 
 # Check links
 if has_readme_changes
