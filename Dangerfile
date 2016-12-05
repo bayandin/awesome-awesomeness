@@ -1,3 +1,4 @@
+message "Hi @#{github.pr_author} thank you for your submission at Awesome-Awesomeness. Be sure that you haven't got any errors below this. For any questions, ping @m1guelpf"
 #Check for changes to README.md
 has_readme_changes = git.modified_files.include?("README.md")
 
