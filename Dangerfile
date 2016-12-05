@@ -1,7 +1,8 @@
 message "Hi @#{github.pr_author} thank you for your submission at Awesome-Awesomeness. Be sure that you haven't got any errors below this. For any questions, ping @m1guelpf"
 #Check for changes to README.md
 has_readme_changes = git.modified_files.include?("README.md")
-
+can_merge = github.pr_json["mergeable"]
+warn("This PR cannot be merged yet.", sticky: true) unless can_merge
 # Ensure there is a summary for a pull request
 fail 'Please provide a summary in the Pull Request description' if github.pr_body.length < 5
 
