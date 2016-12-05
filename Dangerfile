@@ -2,7 +2,7 @@ message "Hi @#{github.pr_author} thank you for your submission at Awesome-Awesom
 #Check for changes to README.md
 has_readme_changes = git.modified_files.include?("README.md")
 can_merge = github.pr_json["mergeable"]
-warn("This PR cannot be merged yet.", sticky: true) unless can_merge
+warn("This PR cannot be merged yet.", sticky: false) unless can_merge
 # Ensure there is a summary for a pull request
 fail 'Please provide a summary in the Pull Request description' if github.pr_body.length < 5
 
