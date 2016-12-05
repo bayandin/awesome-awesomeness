@@ -116,6 +116,7 @@ A curated list of amazingly awesome awesomeness.
 	 	- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 	- [Datasets](https://github.com/caesar0301/awesome-public-datasets)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
+	- [DevOps](https://github.com/joubertredrat/awesome-devops)
 	- [Docker](https://github.com/veggiemonk/awesome-docker)
 	- [Documentation](https://github.com/PharkMillups/beautiful-docs)
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
