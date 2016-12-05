@@ -11,7 +11,8 @@ fail 'Please replace **[Insert URL to the list here.]** with the URL to the list
 fail 'Please replace **[Explain what this list is about and why it should be included here.]** with an explanation of why we should include this list.' if github.pr_body.include? '**[Explain what this list is about and why it should be included here.]**'
 # Warn if pull request is not updated
 fail 'Please update the Pull Request title to contain the script name' if github.pr_title.include? 'Update README.md'
-
+# Warn if there is [WIP] in the title
+warn "PR is classed as Work in Progress" if github.pr_title.include? "[WIP]"
 # Warn when there are merge commits in the diff
 fail 'Please rebase to get rid of the merge commits in this Pull Request' if git.commits.any? { |c| c.message =~ /^Merge branch 'master'/ }
 
