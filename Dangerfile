@@ -23,14 +23,3 @@ if has_readme_changes
   markdown j['message']
  end
 end
-
-# Check syntax
-if has_readme_changes
- require 'json'
- syntaxresults = File.read 'syntaxcheck.json'
- sj = JSON.parse syntaxresults
- if sj['error']==true
-  fail sj['title']
-  markdown sj['message']
- end
-end
