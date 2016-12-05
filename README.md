@@ -71,6 +71,7 @@ A curated list of amazingly awesome awesomeness.
 	- Accessibility
 		- [by @a11yproject](https://github.com/a11yproject/a11yproject.com)
 		- [by @brunopulis](https://github.com/brunopulis/awesome-a11y)
+     - [Agolia](https://github.com/algolia/awesome-algolia)
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
 		- [Big O Notation](https://github.com/okulbilisim/awesome-big-o)
