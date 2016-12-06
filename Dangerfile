@@ -36,6 +36,6 @@ if has_readme_changes
  user = client.user
  user.login
  data = JSON.parse(json)
- put data
- put data['number']
+ puts data
+ puts data['number']
  Octokit.add_labels_to_an_issue("bayandin/awesome-awesomeness", data['number'], ['Changes Required'])
