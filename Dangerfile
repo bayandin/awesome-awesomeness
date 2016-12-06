@@ -28,14 +28,3 @@ if has_readme_changes
   markdown j['message']
  end
 end
-if has_readme_changes
- require 'rubygems'
- require 'json'
- require 'octokit'
- client = Octokit::Client.new(:access_token => DANGER_GITHUB_API_TOKEN)
- user = client.user
- user.login
- data = JSON.parse(json)
- puts data
- puts data['number']
- done = Octokit.add_labels_to_an_issue("bayandin/awesome-awesomeness", data['number'], ['Changes Required'])
