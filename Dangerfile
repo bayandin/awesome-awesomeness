@@ -28,4 +28,5 @@ if has_readme_changes
   markdown j['message']
  end
 end
+json = pr_json
 require ".danger/danger.rb"
