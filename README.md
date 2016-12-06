@@ -4,7 +4,7 @@ A curated list of amazingly awesome awesomeness.
 
 - Programming Languages
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
-	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
+	- [AutoIt](https://github.com/J2TeaM/awesome-AutoI#t)
 	- [Assembler](https://github.com/mat0thew/awesome-asm)
 	- [C](https://github.com/kozross/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
