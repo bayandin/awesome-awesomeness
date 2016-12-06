@@ -7,6 +7,7 @@ before_install:
   - rvm install 2.2
   - gem install awesome_bot
   - gem install danger
+  - gem install octokit
   
 script:
   - git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
