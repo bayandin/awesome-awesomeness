@@ -8,6 +8,7 @@ before_install:
   - gem install awesome_bot
   - gem install danger
   - gem install octokit
+  - gem install optparse
   
 script:
   - git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
