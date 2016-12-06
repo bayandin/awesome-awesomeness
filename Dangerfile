@@ -38,4 +38,4 @@ if has_readme_changes
  data = JSON.parse(json)
  puts data
  puts data['number']
- Octokit.add_labels_to_an_issue("bayandin/awesome-awesomeness", data['number'], ['Changes Required'])
+ done = Octokit.add_labels_to_an_issue("bayandin/awesome-awesomeness", data['number'], ['Changes Required'])
