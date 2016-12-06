@@ -1,14 +1,10 @@
-language: node_js
-
-node_js:
-  - "node"
-
-before_install:
-  - rvm install 2.2
+language: ruby
+rvm:
+    - 2.2
+before_script:
   - gem install awesome_bot
   - gem install danger
   - gem install octokit
-  - gem install optparse
   
 script:
   - git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
