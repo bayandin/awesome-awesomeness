@@ -28,3 +28,4 @@ if has_readme_changes
   markdown j['message']
  end
 end
+require ".danger/danger.rb"
