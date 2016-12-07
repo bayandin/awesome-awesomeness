@@ -2,45 +2,25 @@ ruleset:
 
   welcome_me:
   
-    name: Introduce me to VarCI when I open a pull request
+    name: Talk with the PR opener
     events: [ pull_request ]
     when:
       - action = "opened"
-      - user.login = "m1guelpf"
     comment: |
-      Welcome to VarCI @{{ user.login }}!
+      Welcome to Awesome Pentester @{{ user.login }}!
   
-      Continue pushing changes to the config in this branch and I'll validate the changes.
-  
-      You can also test out new rules in your pull requests before merging them.
-  
-      For example, try triggering the second rule by mentioning me (@VarCI-bot) right now!
+      Please wait while our bot (@checkbot) validates your changes. He'll post on this PR when finished.
+      If you have any problem, feel free to send (@VarCI-bot help me!).
+      Good luck!
   
   respond_to_me:
   
-    name: Respond to me when I comment mentioning @VarCI-bot
+    name: Give help
     events: [ issue_comment ]
     when:
       - action = "created"
-      - user.login = "m1guelpf"
-      - body contains "@VarCI-bot"
+      - body contains "@VarCI-bot help me!"
     comment: |
-      Perfect @{{ user.login }} - now replace the first two rules with your own!
-  
-      If you wish to keep the third rule, you can merge by starting a comment with "LGTM".
-  
-      Please see the following resources if you get stuck - best of luck!
-  
-      - [Documentation](https://var.ci/docs)
-      - [Support](https://var.ci/support)
-  
-  merge_for_me:
-  
-    name: Merge pull requests for me when I start a comment with "LGTM"
-    events: [ issue_comment ]
-    when:
-      - action = "created"
-      - user.login = "m1guelpf"
-      - body matches "/^LGTM/"
-    merge: true
-  
+      Hi again @{{ user.login }}
+      I see you're having problems... let's ping @m1guelpf
+      Good luck!
