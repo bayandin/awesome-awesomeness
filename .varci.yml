@@ -7,7 +7,7 @@ ruleset:
     when:
       - action = "opened"
     comment: |
-      Welcome to Awesome Pentester @{{ user.login }}!
+      Welcome to Awesome Awesomeness @{{ user.login }}!
   
       Please wait while our bot (@checkbot) validates your changes. He'll post on this PR when finished.
       If you have any problem, feel free to send (@VarCI-bot help me!).
