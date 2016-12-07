@@ -1,0 +1,26 @@
+ruleset:
+
+  welcome_me:
+  
+    name: Talk with the PR opener
+    events: [ pull_request ]
+    when:
+      - action = "opened"
+    comment: |
+      Welcome to Awesome Awesomeness @{{ user.login }}!
+  
+      Please wait while our bot (@checkbot) validates your changes. He'll post on this PR when finished.
+      If you have any problem, feel free to send (@VarCI-bot help me!).
+      Good luck!
+  
+  respond_to_me:
+  
+    name: Give help
+    events: [ issue_comment ]
+    when:
+      - action = "created"
+      - body contains "@VarCI-bot help me!"
+    comment: |
+      Hi again @{{ user.login }}
+      I see you're having problems... let's ping @m1guelpf
+      Good luck!
