@@ -171,6 +171,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 	- [Material Design](https://github.com/sachin1092/awesome-material)
 	- [Mobile marketing and development](https://github.com/alec-c4/awesome-mobile)
+	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
 	- Newsletters
 		- [by @vredniy](https://github.com/vredniy/awesome-newsletters)
