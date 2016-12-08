@@ -170,6 +170,7 @@ A curated list of amazingly awesome awesomeness.
 	- Newsletters
 		- [by @vredniy](https://github.com/vredniy/awesome-newsletters)
 		- [by @webpro](https://github.com/webpro/awesome-newsletters)
+		- [by @mpron](https://github.com/mpron/awesome-newsletters)
 	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography)
