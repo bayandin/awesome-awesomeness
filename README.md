@@ -213,6 +213,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Test Automation](https://github.com/atinfo/awesome-test-automation)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- [Unity](https://github.com/RyanNielson/awesome-unity)
+	- [UI Styleguide](https://github.com/kevinwuhoo/ui-styleguides)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- Vim
 	- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
