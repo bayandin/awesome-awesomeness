@@ -83,7 +83,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Arduino](https://github.com/Lembed/Awesome-arduino)
 	- [API](https://github.com/Kikobeats/awesome-api)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
-		- [OS X](https://github.com/iCHAIT/awesome-osx) 
+		- [OS X](https://github.com/iCHAIT/awesome-osx)
 		- [OS X and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome)
 	- [Beacons](https://github.com/beaconinside/awesome-ibeacon-eddystone-beacon)
 	- Big data
@@ -165,7 +165,10 @@ A curated list of amazingly awesome awesomeness.
 	- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 	- [Material Design](https://github.com/sachin1092/awesome-material)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
-	- [Newsletters](https://github.com/vredniy/awesome-newsletters)
+	- [Newsletters]
+		- [by @vredniy](https://github.com/vredniy/awesome-newsletters)
+		- [by @webpro](https://github.com/webpro/awesome-newsletters)
+	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
