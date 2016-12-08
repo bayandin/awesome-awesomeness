@@ -187,6 +187,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Pentester](https://github.com/m1guelpf/awesome-pentester)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [Random-Forest](https://github.com/kjw0612/awesome-random-forest)
+	- [RaspberryPI](https://github.com/blackout314/awesome-raspberry-pi)
 	- [React Native](https://github.com/jondot/awesome-react-native)
 	- [README](https://github.com/matiassingers/awesome-readme)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
@@ -230,7 +231,11 @@ A curated list of amazingly awesome awesomeness.
 	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 	- [Wordpress](https://github.com/miziomon/awesome-wordpress)
 	- [Workshops](https://github.com/therebelrobot/awesome-workshopper)
+<<<<<<< HEAD
 	- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
+=======
+	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
+>>>>>>> 4a4d6fd4b0615b4934eab0efaf736e0514d3b92c
 
 ## License
 
