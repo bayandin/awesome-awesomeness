@@ -166,6 +166,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Material Design](https://github.com/sachin1092/awesome-material)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
 	- [Newsletters](https://github.com/vredniy/awesome-newsletters)
+	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
@@ -211,7 +212,6 @@ A curated list of amazingly awesome awesomeness.
 	- Vim
 	- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
-	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 	- [Wordpress](https://github.com/miziomon/awesome-wordpress)
