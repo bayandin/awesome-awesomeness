@@ -174,7 +174,6 @@ A curated list of amazingly awesome awesomeness.
 	- [Pentester](https://github.com/m1guelpf/awesome-pentester)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [Random-Forest](https://github.com/kjw0612/awesome-random-forest)
-	- [README](https://github.com/matiassingers/awesome-readme)
 	- [React Native](https://github.com/jondot/awesome-react-native)
 	- [README](https://github.com/matiassingers/awesome-readme)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
