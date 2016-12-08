@@ -165,7 +165,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 	- [Material Design](https://github.com/sachin1092/awesome-material)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
-	- [Newsletters]
+	- Newsletters
 		- [by @vredniy](https://github.com/vredniy/awesome-newsletters)
 		- [by @webpro](https://github.com/webpro/awesome-newsletters)
 	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
