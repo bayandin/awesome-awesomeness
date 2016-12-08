@@ -131,7 +131,9 @@ A curated list of amazingly awesome awesomeness.
 		- [by @moklick](https://github.com/moklick/frontend-stuff)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [Games](https://github.com/leereilly/games)
-	- [GIF](https://github.com/Kikobeats/awesome-gif)
+	- GIF
+		- [by @Kikobeats](https://github.com/Kikobeats/awesome-gif)
+		- [by @Syskaw](https://github.com/Syskaw/awesome-gif)
 	- [Gists](https://github.com/vsouza/awesome-gists)
 	- [Git](https://github.com/dictcp/awesome-git)
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
@@ -170,6 +172,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @webpro](https://github.com/webpro/awesome-newsletters)
 	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 	- [Open Science](https://github.com/silky/awesome-open-science)
+	- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
 	- [Pipelines](https://github.com/pditommaso/awesome-pipeline)
