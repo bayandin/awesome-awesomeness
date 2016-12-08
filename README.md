@@ -100,6 +100,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 	- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
 	- [Challenges](https://github.com/mauriciovieira/awesome-challenges)
+	- [Code Formatters](https://github.com/rishirdua/awesome-code-formatters)
 	- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 	- [Conferences](https://github.com/RichardLitt/awesome-conferences)
  	- [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
