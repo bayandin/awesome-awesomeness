@@ -209,6 +209,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Sound](https://github.com/hwclass/awesome-sound)
 	- [Space](https://github.com/elburz/awesome-space)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+		- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
 	- [Sphinx Documentation](https://github.com/yoloseem/awesome-sphinxdoc)
 	- [Startup](https://github.com/KrishMunot/awesome-startup)
 	- [Static Analysis](https://github.com/mre/awesome-static-analysis/)
