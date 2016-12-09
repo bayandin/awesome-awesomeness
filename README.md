@@ -232,11 +232,7 @@ A curated list of amazingly awesome awesomeness.
 	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 	- [Wordpress](https://github.com/miziomon/awesome-wordpress)
 	- [Workshops](https://github.com/therebelrobot/awesome-workshopper)
-<<<<<<< HEAD
 	- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
-=======
-	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
->>>>>>> 4a4d6fd4b0615b4934eab0efaf736e0514d3b92c
 
 ## License
 
