@@ -3,6 +3,7 @@
 A curated list of amazingly awesome awesomeness.
 
 - Programming Languages
+        - [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 	- [Assembler](https://github.com/mat0thew/awesome-asm)
@@ -39,6 +40,7 @@ A curated list of amazingly awesome awesomeness.
 	- Lua
 		- [by @forhappy](https://github.com/forhappy/awesome-lua)
 		- [by @lewisjellis](https://github.com/LewisJEllis/awesome-lua)
+        - [MongoDB](https://github.com/ximaoxo/awesome-mongodb)
 	- [MySQL](https://github.com/shlomi-noach/awesome-mysql)
 	- .NET
 		- [by @quozd](https://github.com/quozd/awesome-dotnet)
