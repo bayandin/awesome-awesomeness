@@ -230,7 +230,7 @@ A curated list of amazingly awesome awesomeness.
 	- [UI Styleguide](https://github.com/kevinwuhoo/ui-styleguides)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- Vim
-	- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
+		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
 	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
