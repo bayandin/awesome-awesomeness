@@ -129,6 +129,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
+	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
 	- [Free Services](https://github.com/ripienaar/free-for-dev)
