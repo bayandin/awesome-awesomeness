@@ -192,6 +192,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
 	- [Pipelines](https://github.com/pditommaso/awesome-pipeline)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
+	- [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
 	- [Pentester](https://github.com/m1guelpf/awesome-pentester)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [Random-Forest](https://github.com/kjw0612/awesome-random-forest)
