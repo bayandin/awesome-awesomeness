@@ -36,7 +36,8 @@ A curated list of amazingly awesome awesomeness.
 		- Node.js
 			- [by @sindresorhus](https://github.com/sindresorhus/awesome-nodejs)
 			- [by @vndmtrx](https://github.com/vndmtrx/awesome-nodejs)
-		- [React] (https://github.com/enaqx/awesome-react)
+		- [React](https://github.com/enaqx/awesome-react)
+		- [VueJS](https://github.com/vuejs/awesome-vue)
 	- [Julia](https://github.com/svaksha/Julia.jl)
 	- [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 	- Lua
