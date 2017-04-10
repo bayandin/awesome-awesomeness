@@ -156,6 +156,7 @@ A curated list of amazingly awesome awesomeness.
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
+	- [Hacking](https://github.com/carpedm20/awesome-hacking)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Honeypots](https://github.com/paralax/awesome-honeypots)
 	- [Incident Response](https://github.com/meirwah/awesome-incident-response)
