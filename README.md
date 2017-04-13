@@ -221,6 +221,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Slack](https://github.com/matiassingers/awesome-slack)
 	- [Sound](https://github.com/hwclass/awesome-sound)
 	- [Space](https://github.com/elburz/awesome-space)
+		- [Books and manuals](https://github.com/Hunter-Github/awesome-space-books)
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 		- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
 	- [Sphinx Documentation](https://github.com/yoloseem/awesome-sphinxdoc)
