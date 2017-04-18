@@ -24,6 +24,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @0xAX](https://github.com/0xAX/erlang-bookmarks)
 		- [by @drobakowski](https://github.com/drobakowski/awesome-erlang)
 		- [by @unbalancedparentheses](https://github.com/unbalancedparentheses/spawnedshelter)
+	- [F#](https://github.com/VPashkov/awesome-fsharp)
 	- [Fortran](https://github.com/rabbiabram/awesome-fortran)
 	- [Go](https://github.com/avelino/awesome-go)
 	- [Go Patterns](https://github.com/tmrts/go-patterns)
