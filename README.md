@@ -251,6 +251,9 @@ A curated list of amazingly awesome awesomeness.
 	- [Workshops](https://github.com/therebelrobot/awesome-workshopper)
 	- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 
+- Other
+	- [Radio](https://github.com/kyleterry/awesome-radio)
+
 ## License
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
