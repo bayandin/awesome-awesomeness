@@ -2,6 +2,9 @@
 
 A curated list of amazingly awesome awesomeness.
 
+- General
+	- [Frontend dev](https://github.com/dypsilon/frontend-dev-bookmarks)
+	- [Favicon](https://github.com/audreyr/favicon-cheat-sheet)
 - Programming Languages
     - [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
