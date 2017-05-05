@@ -234,6 +234,7 @@ A curated list of amazingly awesome awesomeness.
 	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Swedish](https://github.com/gurre/awesome-swedish-opensource)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
+	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
 	- [Telegram](https://github.com/ebertti/awesome-telegram)
