@@ -155,6 +155,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Toolkits for Github](https://github.com/xohozu/awesome-toolkit)
 	- [GraphQL](https://github.com/chentsulin/awesome-graphql)
 	- [Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking)
+    - [Motion Design for Web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
