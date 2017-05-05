@@ -167,6 +167,8 @@ A curated list of amazingly awesome awesomeness.
 	- [iOS](https://github.com/vsouza/awesome-ios)
 		- [Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
 		- [UI](https://github.com/cjwirth/awesome-ios-ui)
+		- [Animations](https://github.com/sxyx2008/awesome-ios-animation)
+		- [Charts](https://github.com/sxyx2008/awesome-ios-chart)
 	- [JSON](https://github.com/burningtree/awesome-json)
 	- [JVM](https://github.com/deephacks/awesome-jvm)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
