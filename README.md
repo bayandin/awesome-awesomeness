@@ -62,7 +62,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
 		- [by @markets](https://github.com/markets/awesome-ruby)
 		- [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
-	- [Rust](https://github.com/kud1ing/awesome-rust)
+	- [Rust](https://github.com/rust-unofficial/awesome-rust)
 	- [SAS](https://github.com/huyingjie/awesome-SAS)
 	- [Scala](https://github.com/lauris/awesome-scala)
 	- [Shell](https://github.com/alebcay/awesome-shell)
