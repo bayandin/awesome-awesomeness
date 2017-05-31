@@ -42,7 +42,7 @@ A curated list of amazingly awesome awesomeness.
 	- Lua
 		- [by @forhappy](https://github.com/forhappy/awesome-lua)
 		- [by @lewisjellis](https://github.com/LewisJEllis/awesome-lua)
-        - [MongoDB](https://github.com/ximaoxo/awesome-mongodb)
+	- [MongoDB](https://github.com/ximaoxo/awesome-mongodb)
 	- [MySQL](https://github.com/shlomi-noach/awesome-mysql)
 	- .NET
 		- [by @quozd](https://github.com/quozd/awesome-dotnet)
