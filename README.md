@@ -36,6 +36,7 @@ A curated list of amazingly awesome awesomeness.
 		- [JavaScript Learning Resources](https://github.com/micromata/awesome-javascript-learning-resources)
 		- [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 		- [React](https://github.com/enaqx/awesome-react)
+		- [Svelte](https://github.com/flagello/awesome-sveltejs)
 		- [VueJS](https://github.com/vuejs/awesome-vue)
 	- [Julia](https://github.com/svaksha/Julia.jl)
 	- [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
