@@ -34,6 +34,7 @@ A curated list of amazingly awesome awesomeness.
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
 		- [Angular 2](https://github.com/AngularClass/awesome-angular2)
 		- [JavaScript Learning Resources](https://github.com/micromata/awesome-javascript-learning-resources)
+		- [Koa](https://github.com/ellerbrock/awesome-koa)
 		- [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 		- [React](https://github.com/enaqx/awesome-react)
 		- [Svelte](https://github.com/flagello/awesome-sveltejs)
