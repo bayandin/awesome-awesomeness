@@ -73,7 +73,7 @@ A curated list of amazingly awesome awesomeness.
 		- [from ZEEF by @Edubits](https://swift.zeef.com/robin.eggenkamp)
 	- [TypeScript](https://github.com/dzharii/awesome-typescript)
 	  - [by @ellerbrock](https://github.com/ellerbrock/awesome-typescript)
-		- [TypeScript Projects](https://github.com/brookshi/awesome-typescript-projects)
+	  - [TypeScript Projects](https://github.com/brookshi/awesome-typescript-projects)
 
 - General
 	- [.htaccess](https://github.com/phanan/htaccess)
