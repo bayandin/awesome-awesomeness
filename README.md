@@ -71,9 +71,10 @@ A curated list of amazingly awesome awesomeness.
 		- [by @MaxChen](https://github.com/MaxChen/awesome-swift-and-tutorial-resources)
 		- [by @Wolg](https://github.com/Wolg/awesome-swift)
 		- [from ZEEF by @Edubits](https://swift.zeef.com/robin.eggenkamp)
-	- [TypeScript](https://github.com/dzharii/awesome-typescript)
-	  - [by @ellerbrock](https://github.com/ellerbrock/awesome-typescript)
-	  - [TypeScript Projects](https://github.com/brookshi/awesome-typescript-projects)
+	- TypeScript
+		- [by @brookshi](https://github.com/brookshi/awesome-typescript-projects)
+		- [by @dzharii](https://github.com/dzharii/awesome-typescript)
+		- [by @ellerbrock](https://github.com/ellerbrock/awesome-typescript)
 
 - General
 	- [.htaccess](https://github.com/phanan/htaccess)
