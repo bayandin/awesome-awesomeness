@@ -6,7 +6,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
-	- [Assembler](https://github.com/mat0thew/awesome-asm)
+	- [Assembler](https://github.com/jaspergould/awesome-asm)
 	- [C](https://notabug.org/koz.ross/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [CMake](https://github.com/onqtam/awesome-cmake)
@@ -32,8 +32,8 @@ A curated list of amazingly awesome awesomeness.
 	- [Haskell](https://github.com/krispo/awesome-haskell)
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
-		- [Angular 2](https://github.com/AngularClass/awesome-angular2)
-		- [JavaScript Learning Resources](https://github.com/micromata/awesome-javascript-learning-resources)
+		- [Angular 2](https://github.com/AngularClass/awesome-angular)
+		- [JavaScript Learning Resources](https://github.com/micromata/awesome-javascript-learning)
 		- [Koa](https://github.com/ellerbrock/awesome-koa)
 		- [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 		- [React](https://github.com/enaqx/awesome-react)
@@ -48,7 +48,7 @@ A curated list of amazingly awesome awesomeness.
 	- [MySQL](https://github.com/shlomi-noach/awesome-mysql)
 	- .NET
 		- [by @quozd](https://github.com/quozd/awesome-dotnet)
-		- [by @tallesl](https://github.com/tallesl/.NET-libraries-that-make-your-life-easier)
+		- [by @tallesl](https://github.com/tallesl/net-libraries-that-make-your-life-easier)
 	- [OCaml](https://github.com/rizo/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
@@ -95,9 +95,9 @@ A curated list of amazingly awesome awesomeness.
 	- [Artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 	- [API](https://github.com/Kikobeats/awesome-api)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
-		- [OS X](https://github.com/iCHAIT/awesome-osx)
+		- [OS X](https://github.com/iCHAIT/awesome-macOS)
 		- [OS X and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome)
-	- [Beacons](https://github.com/beaconinside/awesome-ibeacon-eddystone-beacon)
+	- [Beacons](https://github.com/beaconinside/awesome-beacon)
 	- Big data
 		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
 		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
@@ -107,7 +107,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @igorbarinov](https://github.com/igorbarinov/awesome-bitcoin)
 	- [Boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
 	- Books
-		- [Free Programming Books](https://github.com/vhf/free-programming-books)
+		- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
 		- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 	- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
@@ -124,7 +124,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @MaciejCzyzewski](https://github.com/MaciejCzyzewski/retter)
 		- [by @sobolevn](https://github.com/sobolevn/awesome-cryptography)
 	- [CSS](https://github.com/sotayamashita/awesome-css)
-	- [Data Science](https://github.com/okulbilisim/awesome-datascience)
+	- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
 	- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 		- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
@@ -198,7 +198,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @mpron](https://github.com/mpron/awesome-newsletters)
 	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 	- [Open Science](https://github.com/silky/awesome-open-science)
-	- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography)
+	- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
 	- [Pipelines](https://github.com/pditommaso/awesome-pipeline)
@@ -257,6 +257,6 @@ A curated list of amazingly awesome awesomeness.
 
 ## License
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
