@@ -33,6 +33,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
 		- [Angular 2](https://github.com/AngularClass/awesome-angular)
+		- [Ember.js](https://github.com/nmec/awesome-ember)
 		- [JavaScript Learning Resources](https://github.com/micromata/awesome-javascript-learning)
 		- [Koa](https://github.com/ellerbrock/awesome-koa)
 		- [Node.js](https://github.com/sindresorhus/awesome-nodejs)
