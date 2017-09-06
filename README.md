@@ -221,6 +221,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
 	- Search Engine Optimization (SEO)
 		- [by @marcobiedermann](https://github.com/marcobiedermann/search-engine-optimization)
+		- [by @sneg55](https://github.com/sneg55/curatedseotools)
 		- [by @teles](https://github.com/teles/awesome-seo)
 	- [Security](https://github.com/sbilly/awesome-security)
 	- [Selfhosted](https://github.com/Kickball/awesome-selfhosted)
