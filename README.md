@@ -177,6 +177,7 @@ A curated list of amazingly awesome awesomeness.
 	- [JVM](https://github.com/deephacks/awesome-jvm)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
 	- [Laravel](https://github.com/chiraggude/awesome-laravel)
+	- [Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
 	- [Lego](https://github.com/adius/awesome-lego)
 	- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 	- [Linux resources](https://github.com/itech001/awesome-linux-resources)
