@@ -126,6 +126,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @MaciejCzyzewski](https://github.com/MaciejCzyzewski/retter)
 		- [by @sobolevn](https://github.com/sobolevn/awesome-cryptography)
 	- [CSS](https://github.com/sotayamashita/awesome-css)
+		- [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 	- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
 	- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 	- [Database](https://github.com/numetriclabz/awesome-db)
