@@ -192,6 +192,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 	- [Material Design](https://github.com/sachin1092/awesome-material)
+	- [Matlab](https://github.com/mikecroucher/awesome-MATLAB)
 	- [Mobile marketing and development](https://github.com/alec-c4/awesome-mobile)
 	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 	- [Motion Design for Web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
