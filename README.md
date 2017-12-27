@@ -253,6 +253,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- [Unity](https://github.com/RyanNielson/awesome-unity)
 	- [UI Styleguide](https://github.com/kevinwuhoo/ui-styleguides)
+	- [UNIX](https://github.com/sirredbeard/Awesome-UNIX)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- Vim
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
