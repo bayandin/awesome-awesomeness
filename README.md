@@ -251,6 +251,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Telegram](https://github.com/ebertti/awesome-telegram)
 	- [Test Automation](https://github.com/atinfo/awesome-test-automation)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+	- [Twilio](https://github.com/Twilio-org/awesome-twilio)
 	- [Unity](https://github.com/RyanNielson/awesome-unity)
 	- [UI Styleguide](https://github.com/kevinwuhoo/ui-styleguides)
 	- [UNIX](https://github.com/sirredbeard/Awesome-UNIX)
