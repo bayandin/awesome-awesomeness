@@ -30,6 +30,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Go Patterns](https://github.com/tmrts/go-patterns)
 	- [Groovy](https://github.com/kdabir/awesome-groovy)
 	- [Haskell](https://github.com/krispo/awesome-haskell)
+	- [Idris](https://github.com/joaomilho/awesome-idris)
 	- [Java](https://github.com/akullpp/awesome-java)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
 		- [Angular 2](https://github.com/AngularClass/awesome-angular)
