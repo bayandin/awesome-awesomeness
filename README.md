@@ -95,7 +95,9 @@ A curated list of amazingly awesome awesomeness.
 		- [Android UI](https://github.com/wasabeef/awesome-android-ui)
 	- [Arduino](https://github.com/Lembed/Awesome-arduino)
 	- [Artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
-	- [API](https://github.com/Kikobeats/awesome-api)
+	- API
+		- [by @Kikobeats](https://github.com/Kikobeats/awesome-api)
+		- [by @toddmotto](https://github.com/toddmotto/public-apis)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
 		- [OS X](https://github.com/iCHAIT/awesome-macOS)
 		- [OS X and iOS Security](https://github.com/ashishb/osx-and-ios-security-awesome)
