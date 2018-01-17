@@ -234,6 +234,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @teles](https://github.com/teles/awesome-seo)
 	- [Security](https://github.com/sbilly/awesome-security)
 	- [Selfhosted](https://github.com/Kickball/awesome-selfhosted)
+	- [Serverless](https://github.com/anaibol/awesome-serverless)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sheet Music](https://github.com/adius/awesome-sheet-music)
 	- [Slack](https://github.com/matiassingers/awesome-slack)
