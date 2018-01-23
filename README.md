@@ -173,6 +173,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Hacking](https://github.com/carpedm20/awesome-hacking)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Honeypots](https://github.com/paralax/awesome-honeypots)
+	- [Hyper](https://github.com/bnb/awesome-hyper)
 	- [Incident Response](https://github.com/meirwah/awesome-incident-response)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [Internet of Things (IOT)](https://github.com/HQarroum/awesome-iot)
