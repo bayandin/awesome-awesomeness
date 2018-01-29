@@ -228,6 +228,7 @@ A curated list of amazingly awesome awesomeness.
 	- [REST](https://github.com/marmelab/awesome-rest)
 	- [Robotics](https://github.com/Kiloreux/awesome-robotics)
 	- [RNN](https://github.com/kjw0612/awesome-rnn)
+	- [Scalability](https://github.com/binhnguyennus/awesome-scalability)
 	- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
 	- Search Engine Optimization (SEO)
 		- [by @marcobiedermann](https://github.com/marcobiedermann/search-engine-optimization)
