@@ -59,6 +59,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @kirang89](https://github.com/kirang89/pycrumbs)
 		- [by @svaksha](https://github.com/svaksha/pythonidae)
 		- [by @vinta](https://github.com/vinta/awesome-python)
+		- [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
 	- [R](https://github.com/qinwf/awesome-R)
 	- Ruby
 		- [by @dreikanter](https://github.com/dreikanter/ruby-bookmarks)
