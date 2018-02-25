@@ -107,9 +107,22 @@ A curated list of amazingly awesome awesomeness.
 		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
 		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
-	- Bitcoin
-		- [by @btcbrdev](https://github.com/btcbrdev/awesome-btcdev)
-		- [by @igorbarinov](https://github.com/igorbarinov/awesome-bitcoin)
+	- Blockchain
+		- [by @imbaniac](https://github.com/imbaniac/awesome-blockchain)
+		- [by @coderplex](https://github.com/coderplex/awesome-blockchain)
+		- [by @hitripod](https://github.com/hitripod/awesome-blockchain)
+		- [by @iNiKe](https://github.com/iNiKe/awesome-blockchain)
+		- [by @igorbarinov](https://github.com/igorbarinov/awesome-blockchain)
+		- [by @istinspring](https://github.com/istinspring/awesome-blockchain)
+		- [by @openblockchains](https://github.com/openblockchains/awesome-blockchains)
+		- [by @kennethreitz](https://github.com/kennethreitz/awesome-coins)
+		- [awesome-token-sale](https://github.com/holographicio/awesome-token-sale)
+		- Bitcoin
+			- [by @btcbrdev](https://github.com/btcbrdev/awesome-btcdev)
+			- [by @igorbarinov](https://github.com/igorbarinov/awesome-bitcoin)
+		- Ethereum
+			- [by @vinsgo](https://github.com/vinsgo/awesome-ethereum)
+			- [awesome-ethereum-virtual-machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
 	- [Boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
 	- Books
 		- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
