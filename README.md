@@ -290,6 +290,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Wordpress](https://github.com/miziomon/awesome-wordpress)
 	- [Workshops](https://github.com/therebelrobot/awesome-workshopper)
 	- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
+	- [Typography](https://github.com/Jolg42/awesome-typography)
 
 ## License
 
