@@ -156,6 +156,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @ChristosChristofidis](https://github.com/ChristosChristofidis/awesome-deep-learning)
 		- [by @guillaume-chevalier](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 		- [by @tigerneil](https://github.com/tigerneil/awesome-deep-rl)
+	- [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [DevOps](https://github.com/joubertredrat/awesome-devops)
 	- [Docker](https://github.com/veggiemonk/awesome-docker)
