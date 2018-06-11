@@ -51,6 +51,7 @@ A curated list of amazingly awesome awesomeness.
 	- .NET
 		- [by @quozd](https://github.com/quozd/awesome-dotnet)
 		- [by @tallesl](https://github.com/tallesl/net-libraries-that-make-your-life-easier)
+		- [by @thangchung](https://github.com/thangchung/awesome-dotnet-core)
 	- [OCaml](https://github.com/rizo/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
