@@ -167,6 +167,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
+	- [Flutter](https://github.com/Solido/awesome-flutter)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
 	- [Free Services](https://github.com/ripienaar/free-for-dev)
 	- Frontend
