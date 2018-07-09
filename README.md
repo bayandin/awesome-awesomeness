@@ -109,6 +109,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 	- Blockchain
+		- [by @0xtokens](https://github.com/0xtokens/awesome-blockchain)
 		- [by @imbaniac](https://github.com/imbaniac/awesome-blockchain)
 		- [by @coderplex](https://github.com/coderplex/awesome-blockchain)
 		- [by @hitripod](https://github.com/hitripod/awesome-blockchain)
