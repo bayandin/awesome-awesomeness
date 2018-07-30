@@ -14,7 +14,9 @@ A curated list of amazingly awesome awesomeness.
 		- [by @mbuczko](https://github.com/mbuczko/awesome-clojure)
 		- [by @razum2um](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-	- [Common Lisp](https://github.com/CodyReichert/awesome-cl)
+	- Common Lisp
+	        - [Common Lisp Libraries](https://github.com/CodyReichert/awesome-cl)
+		- [Learning Common Lisp](https://github.com/GustavBertram/awesome-common-lisp-learning-list)
 	- [Crystal](https://github.com/veelenga/awesome-crystal)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
