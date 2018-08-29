@@ -61,6 +61,7 @@ A curated list of amazingly awesome awesomeness.
 	- Python
 		- [by @kirang89](https://github.com/kirang89/pycrumbs)
 		- [by @svaksha](https://github.com/svaksha/pythonidae)
+		- [by @trekhleb](https://github.com/trekhleb/learn-python)
 		- [by @vinta](https://github.com/vinta/awesome-python)
 		- [awesome-python-in-education](https://github.com/quobit/awesome-python-in-education)
 	- [R](https://github.com/qinwf/awesome-R)
