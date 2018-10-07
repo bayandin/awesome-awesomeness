@@ -170,6 +170,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+	- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc)
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
 	- [Flutter](https://github.com/Solido/awesome-flutter)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
