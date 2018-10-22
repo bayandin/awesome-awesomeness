@@ -189,6 +189,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 		- [GitHub - Chinese](https://github.com/AntBranch/awesome-github)
 		- [Toolkits for Github](https://github.com/xohozu/awesome-toolkit)
+	- [GraphEmbedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)	
 	- [GraphQL](https://github.com/chentsulin/awesome-graphql)
 	- [Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking)
 	- Guides
