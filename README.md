@@ -190,7 +190,7 @@ A curated list of amazingly awesome awesomeness.
 		- [GitHub - Chinese](https://github.com/AntBranch/awesome-github)
 		- [Toolkits for Github](https://github.com/xohozu/awesome-toolkit)
 	- [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
-        - [GraphQL](https://github.com/chentsulin/awesome-graphql)
+	- [GraphQL](https://github.com/chentsulin/awesome-graphql)
 	- [Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking)
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
