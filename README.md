@@ -128,6 +128,7 @@ A curated list of amazingly awesome awesomeness.
 		- Ethereum
 			- [by @vinsgo](https://github.com/vinsgo/awesome-ethereum)
 			- [awesome-ethereum-virtual-machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
+			- [by @Tom2718](https://github.com/Tom2718/Awesome-Ethereum)
 		- [Ripple](https://github.com/vhpoet/awesome-ripple)
 	- [Boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
 	- Books
