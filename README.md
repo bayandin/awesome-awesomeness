@@ -293,6 +293,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Twilio](https://github.com/Twilio-org/awesome-twilio)
 	- [Unity](https://github.com/RyanNielson/awesome-unity)
 	- [UI Styleguide](https://github.com/kevinwuhoo/ui-styleguides)
+		- [UI Components for Styleguide](https://github.com/anubhavsrivastava/awesome-ui-component-library)
 	- [UNIX](https://github.com/sirredbeard/Awesome-UNIX)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- Vim
