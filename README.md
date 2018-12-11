@@ -205,6 +205,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [Internet of Things (IOT)](https://github.com/HQarroum/awesome-iot)
 	- [iOS](https://github.com/vsouza/awesome-ios)
+		- [Cocoa Controls](https://github.com/v-braun/awesome-cocoa)
 		- [Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
 		- [UI](https://github.com/cjwirth/awesome-ios-ui)
 	- [JSON](https://github.com/burningtree/awesome-json)
