@@ -290,6 +290,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
 	- [Telegram](https://github.com/ebertti/awesome-telegram)
+	- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
 	- [Test Automation](https://github.com/atinfo/awesome-test-automation)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- [Twilio](https://github.com/Twilio-org/awesome-twilio)
