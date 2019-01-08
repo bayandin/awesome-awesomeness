@@ -317,3 +317,12 @@ A curated list of amazingly awesome awesomeness.
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+### Code Visualization:
+
+Here is a cool visualization of the code evolution
+
+ [![Watch the video](https://img.youtube.com/vi/p9EmvynhDEI/0.jpg)](https://www.youtube.com/watch?v=p9EmvynhDEI)
+
+ [https://www.youtube.com/watch?v=p9EmvynhDEI](https://www.youtube.com/watch?v=p9EmvynhDEI)
+
