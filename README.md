@@ -211,6 +211,7 @@ A curated list of amazingly awesome awesomeness.
 		- [UI](https://github.com/cjwirth/awesome-ios-ui)
 	- [JSON](https://github.com/burningtree/awesome-json)
 	- [JVM](https://github.com/deephacks/awesome-jvm)
+	- [Kafka](https://github.com/monksy/awesome-kafka)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
 	- [Laravel](https://github.com/chiraggude/awesome-laravel)
 	- [Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
