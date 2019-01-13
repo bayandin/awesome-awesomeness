@@ -126,6 +126,7 @@ A curated list of amazingly awesome awesomeness.
 		- Bitcoin
 			- [by @btcbrdev](https://github.com/btcbrdev/awesome-btcdev)
 			- [by @igorbarinov](https://github.com/igorbarinov/awesome-bitcoin)
+			- [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors)
 		- Ethereum
 			- [by @vinsgo](https://github.com/vinsgo/awesome-ethereum)
 			- [awesome-ethereum-virtual-machine](https://github.com/pirapira/awesome-ethereum-virtual-machine)
