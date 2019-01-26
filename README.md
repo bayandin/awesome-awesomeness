@@ -233,6 +233,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health)
 	- [micro:bit](https://github.com/carlosperate/awesome-microbit)
 	- [Mobile marketing and development](https://github.com/alec-c4/awesome-mobile)
+	- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development)
 	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 	- [Motion Design for Web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
