@@ -211,6 +211,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Open Source Apps](https://github.com/dkhamsing/open-source-ios-apps)
 		- [UI](https://github.com/cjwirth/awesome-ios-ui)
 	- [JSON](https://github.com/burningtree/awesome-json)
+	- [Jupyter](https://github.com/markusschanta/awesome-jupyter)
 	- [JVM](https://github.com/deephacks/awesome-jvm)
 	- [Kafka](https://github.com/monksy/awesome-kafka)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
