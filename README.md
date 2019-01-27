@@ -273,6 +273,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Security](https://github.com/sbilly/awesome-security)
 	- [Selfhosted](https://github.com/Kickball/awesome-selfhosted)
 	- [Serverless](https://github.com/anaibol/awesome-serverless)
+	- [Serverless Security](https://github.com/puresec/awesome-serverless-security/)
 	- [Service Fabric](https://github.com/lawrencegripper/awesome-servicefabric)
 	- [Services Engineering](https://github.com/mmcgrana/services-engineering)
 	- [Sheet Music](https://github.com/adius/awesome-sheet-music)
