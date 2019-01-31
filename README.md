@@ -168,6 +168,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [DevOps](https://github.com/joubertredrat/awesome-devops)
+	- [Django] (https://github.com/wsvincent/awesome-django)
 	- [Docker](https://github.com/veggiemonk/awesome-docker)
 	- [Documentation](https://github.com/PharkMillups/beautiful-docs)
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
