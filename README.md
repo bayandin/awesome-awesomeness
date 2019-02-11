@@ -237,6 +237,8 @@ A curated list of amazingly awesome awesomeness.
 	- [Mobile marketing and development](https://github.com/alec-c4/awesome-mobile)
 	- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development)
 	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
+		- [Prometheus](https://github.com/roaldnefs/awesome-prometheus)
+		- [Prometheus alerting rules](https://github.com/samber/awesome-prometheus-alerts)
 	- [Motion Design for Web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
 	- Newsletters
