@@ -55,7 +55,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @tallesl](https://github.com/tallesl/net-libraries-that-make-your-life-easier)
 		- [by @thangchung](https://github.com/thangchung/awesome-dotnet-core)
 	- [Nim](https://github.com/VPashkov/awesome-nim)
-	- [OCaml](https://github.com/rizo/awesome-ocaml)
+	- [OCaml](https://github.com/ocaml-community/awesome-ocaml)
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
 	- [Postgres](https://github.com/dhamaniasad/awesome-postgres)
