@@ -158,6 +158,7 @@ A curated list of amazingly awesome awesomeness.
 	- [CSS](https://github.com/sotayamashita/awesome-css)
 		- [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 	- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
+		- [Data Science with Python](https://github.com/r0f1/datascience)
 	- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 		- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
