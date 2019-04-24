@@ -252,6 +252,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
+        - [Philosophy](https://github.com/HussainAther/awesome-philosophy)
 	- [Pipelines](https://github.com/pditommaso/awesome-pipeline)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- Protocols
