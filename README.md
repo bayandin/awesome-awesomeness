@@ -176,6 +176,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
+        - [Ethics](https://github.com/HussainAther/awesome-ethics)
 	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 	- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc)
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
