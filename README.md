@@ -176,7 +176,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
-        - [Ethics](https://github.com/HussainAther/awesome-ethics)
+	- [Ethics](https://github.com/HussainAther/awesome-ethics)
 	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 	- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc)
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
@@ -253,7 +253,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
-        - [Philosophy](https://github.com/HussainAther/awesome-philosophy)
+	- [Philosophy](https://github.com/HussainAther/awesome-philosophy)
 	- [Pipelines](https://github.com/pditommaso/awesome-pipeline)
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- Protocols
