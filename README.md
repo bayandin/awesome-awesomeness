@@ -100,7 +100,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Android Release Notes](https://github.com/pedronveloso/awesome-android-release-notes)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 		- [Android UI](https://github.com/wasabeef/awesome-android-ui)
-	- [Architecture](https://github.com/simskij/awesome-software-architecture)
+	- [Software Architecture](https://github.com/simskij/awesome-software-architecture)
 	- [Arduino](https://github.com/Lembed/Awesome-arduino)
 	- [Artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 	- API
