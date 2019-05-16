@@ -175,6 +175,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Docker](https://github.com/veggiemonk/awesome-docker)
 	- [Documentation](https://github.com/PharkMillups/beautiful-docs)
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
+	- [E-commerce](https://github.com/snipcart)
 	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Ethics](https://github.com/HussainAther/awesome-ethics)
