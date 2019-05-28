@@ -169,6 +169,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @ChristosChristofidis](https://github.com/ChristosChristofidis/awesome-deep-learning)
 		- [by @guillaume-chevalier](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 		- [by @tigerneil](https://github.com/tigerneil/awesome-deep-rl)
+	- [Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 	- [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [DevOps](https://github.com/joubertredrat/awesome-devops)
@@ -184,6 +185,7 @@ A curated list of amazingly awesome awesomeness.
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
 	- [Flutter](https://github.com/Solido/awesome-flutter)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
+	- [Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 	- [Free Services](https://github.com/ripienaar/free-for-dev)
 	- Frontend
 		- [by @dypsilon](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -199,6 +201,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 		- [GitHub - Chinese](https://github.com/AntBranch/awesome-github)
 		- [Toolkits for Github](https://github.com/xohozu/awesome-toolkit)
+	- [Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 	- [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
 	- [GraphQL](https://github.com/chentsulin/awesome-graphql)
 	- [Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking)
