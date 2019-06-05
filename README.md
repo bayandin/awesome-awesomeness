@@ -320,6 +320,7 @@ A curated list of amazingly awesome awesomeness.
 	- Vim
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
+	- [Vulkan](https://github.com/vinjn/awesome-vulkan)
 	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 	- [WebComponents](https://github.com/mateusortiz/webcomponents-the-right-way)
 	- [Wordpress](https://github.com/miziomon/awesome-wordpress)
