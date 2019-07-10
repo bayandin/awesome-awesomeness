@@ -46,6 +46,7 @@ A curated list of amazingly awesome awesomeness.
 		- [VueJS](https://github.com/vuejs/awesome-vue)
 	- [Julia](https://github.com/svaksha/Julia.jl)
 	- [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
+	- [Kotlin/Native](https://github.com/bipinvaylu/awesome-kotlin-native)
 	- Lua
 		- [by @forhappy](https://github.com/forhappy/awesome-lua)
 		- [by @lewisjellis](https://github.com/LewisJEllis/awesome-lua)
