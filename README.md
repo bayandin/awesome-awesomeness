@@ -273,7 +273,9 @@ A curated list of amazingly awesome awesomeness.
 	- [Pentester](https://github.com/m1guelpf/awesome-pentester)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [Random-Forest](https://github.com/kjw0612/awesome-random-forest)
-	- [RaspberryPI](https://github.com/blackout314/awesome-raspberry-pi)
+	- Raspberry Pi
+		- [by @blackout314](https://github.com/blackout314/awesome-raspberry-pi)
+		- [by @thibmaek](https://github.com/thibmaek/awesome-raspberry-pi)
 	- [React Native](https://github.com/jondot/awesome-react-native)
 	- [README](https://github.com/matiassingers/awesome-readme)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
