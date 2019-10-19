@@ -317,6 +317,8 @@ A curated list of amazingly awesome awesomeness.
 	- [Telegram](https://github.com/ebertti/awesome-telegram)
 	- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
 	- [Test Automation](https://github.com/atinfo/awesome-test-automation)
+	- Testing
+		- [JMeter](https://github.com/aliesbelik/awesome-jmeter)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- [Twilio](https://github.com/Twilio-org/awesome-twilio)
 	- [Unity](https://github.com/RyanNielson/awesome-unity)
