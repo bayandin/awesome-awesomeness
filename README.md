@@ -168,7 +168,9 @@ A curated list of amazingly awesome awesomeness.
 	- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 	- [Database](https://github.com/numetriclabz/awesome-db)
 		- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
-	- [Datasets](https://github.com/caesar0301/awesome-public-datasets)
+	- Datasets
+		- [by @caesar0301](https://github.com/caesar0301/awesome-public-datasets)
+		- [by @leomaurodesenv](https://github.com/leomaurodesenv/game-datasets)
 	- Deep Learning
 		- [by @ChristosChristofidis](https://github.com/ChristosChristofidis/awesome-deep-learning)
 		- [by @guillaume-chevalier](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
