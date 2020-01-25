@@ -179,6 +179,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @nerox8664](https://github.com/nerox8664/awesome-computer-vision-models)
 	- [Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 	- [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+	- [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [DevOps](https://github.com/joubertredrat/awesome-devops)
 	- [Django](https://github.com/wsvincent/awesome-django)
