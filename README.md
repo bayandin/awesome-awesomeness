@@ -255,6 +255,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
 		- [Prometheus](https://github.com/roaldnefs/awesome-prometheus)
 		- [Prometheus alerting rules](https://github.com/samber/awesome-prometheus-alerts)
+        - [Monte Carlo Tree Search Papers](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers)
 	- [Motion Design for Web](https://github.com/lucasmaiaesilva/awesome-motion-design-web)
 	- [Nginx](https://github.com/fcambus/nginx-resources)
 	- Newsletters
