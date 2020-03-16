@@ -340,6 +340,7 @@ A curated list of amazingly awesome awesomeness.
 	- XMPP
 		- [Ejabberd](https://github.com/shantanu-deshmukh/awesome-ejabberd)
 	- [Typography](https://github.com/Jolg42/awesome-typography)
+	- [Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
 
 ## License
 
