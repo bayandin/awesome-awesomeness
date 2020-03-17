@@ -17,6 +17,7 @@ A curated list of amazingly awesome awesomeness.
 	- Common Lisp
 		- [Common Lisp Libraries](https://github.com/CodyReichert/awesome-cl)
 		- [Learning Common Lisp](https://github.com/GustavBertram/awesome-common-lisp-learning-list)
+	- [Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
 	- [Crystal](https://github.com/veelenga/awesome-crystal)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
