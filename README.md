@@ -1,6 +1,8 @@
 # Awesome Awesomeness
 
 A curated list of amazingly awesome awesomeness.
+- Programming Languages Package Manager
+    - [Package-Manager](https://github.com/damon-kwok/awesome-package-manager)
 
 - Programming Languages
 	- [Ansible](https://github.com/jdauphant/awesome-ansible)
