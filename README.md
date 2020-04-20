@@ -23,6 +23,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Crystal](https://github.com/veelenga/awesome-crystal)
 	- [D](https://github.com/zhaopuming/awesome-d)
 	- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
+	- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops)
 	- [Elixir](https://github.com/h4cc/awesome-elixir)
 	- [Elm](https://github.com/isRuslan/awesome-elm)
 	- Erlang
