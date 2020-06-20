@@ -147,6 +147,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
 		- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 	- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
+	- [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps)
 	- [Captcha](https://github.com/ZYSzys/awesome-captcha)
 	- [Challenges](https://github.com/mauriciovieira/awesome-challenges)
 	- [Code Formatters](https://github.com/rishirdua/awesome-code-formatters)
