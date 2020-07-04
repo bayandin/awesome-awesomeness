@@ -88,6 +88,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @brookshi](https://github.com/brookshi/awesome-typescript-projects)
 		- [by @dzharii](https://github.com/dzharii/awesome-typescript)
 		- [by @ellerbrock](https://github.com/ellerbrock/awesome-typescript)
+	[V](https://github.com/vlang/awesome-v)
 
 - General
 	- [.htaccess](https://github.com/phanan/htaccess)
