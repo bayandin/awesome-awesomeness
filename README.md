@@ -167,6 +167,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @MaciejCzyzewski](https://github.com/MaciejCzyzewski/retter)
 		- [by @sobolevn](https://github.com/sobolevn/awesome-cryptography)
 		- [by @coinpride](https://github.com/coinpride/CryptoList)
+	- [Crypto Papers](https://github.com/pFarb/awesome-crypto-papers)
 	- [CSS](https://github.com/sotayamashita/awesome-css)
 		- [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 	- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
