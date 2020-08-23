@@ -8,7 +8,6 @@ A curated list of amazingly awesome awesomeness.
 	- [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
-	- [Assembler](https://github.com/jaspergould/awesome-asm)
 	- [C](https://notabug.org/koz.ross/awesome-c)
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [CMake](https://github.com/onqtam/awesome-cmake)
