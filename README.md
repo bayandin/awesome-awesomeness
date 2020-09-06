@@ -293,6 +293,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 	- [REST](https://github.com/marmelab/awesome-rest)
 	- [Robotics](https://github.com/Kiloreux/awesome-robotics)
+	- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling)
 	- [RNN](https://github.com/kjw0612/awesome-rnn)
 	- [Scalability](https://github.com/binhnguyennus/awesome-scalability)
 	- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
