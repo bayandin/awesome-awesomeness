@@ -337,6 +337,7 @@ A curated list of amazingly awesome awesomeness.
 		- [UI Components for Styleguide](https://github.com/anubhavsrivastava/awesome-ui-component-library)
 	- [UNIX](https://github.com/sirredbeard/Awesome-UNIX)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
+	- [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)
 	- Vim
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
