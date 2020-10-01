@@ -258,6 +258,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Matlab](https://github.com/mikecroucher/awesome-MATLAB)
 	- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health)
 	- [micro:bit](https://github.com/carlosperate/awesome-microbit)
+	- [MLOps](https://github.com/kelvins/awesome-mlops)
 	- [Mobile marketing and development](https://github.com/alec-c4/awesome-mobile)
 	- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development)
 	- [Monitoring](https://github.com/crazy-canux/awesome-monitoring)
