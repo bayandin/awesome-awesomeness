@@ -331,6 +331,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Test Automation](https://github.com/atinfo/awesome-test-automation)
 	- [Testing](https://github.com/TheJambo/awesome-testing)
 		- [JMeter](https://github.com/aliesbelik/awesome-jmeter)
+	- [Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
 	- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 	- [Twilio](https://github.com/Twilio-org/awesome-twilio)
 	- [Unity](https://github.com/RyanNielson/awesome-unity)
