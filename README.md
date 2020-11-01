@@ -320,6 +320,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Static Analysis](https://github.com/mre/awesome-static-analysis/)
 	- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 	- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
+	- [Sustainable Technology](https://github.com/protontypes/awesome-sustainable-technology)
 	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Swedish](https://github.com/gurre/awesome-swedish-opensource)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
