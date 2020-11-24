@@ -256,6 +256,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 	- [Material Design](https://github.com/sachin1092/awesome-material)
+	- [Math](https://github.com/rossant/awesome-math)
 	- [Matlab](https://github.com/mikecroucher/awesome-MATLAB)
 	- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health)
 	- [micro:bit](https://github.com/carlosperate/awesome-microbit)
