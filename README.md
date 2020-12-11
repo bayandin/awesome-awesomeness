@@ -199,6 +199,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Ethics](https://github.com/HussainAther/awesome-ethics)
 	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
+	- [FastAPI](https://github.com/mjhea0/awesome-fastapi)
 	- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc)
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
 	- [Flutter](https://github.com/Solido/awesome-flutter)
