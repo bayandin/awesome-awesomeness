@@ -201,6 +201,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 	- [FastAPI](https://github.com/mjhea0/awesome-fastapi)
 	- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc)
+	- [Flask](https://github.com/mjhea0/awesome-flask)
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
 	- [Flutter](https://github.com/Solido/awesome-flutter)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
