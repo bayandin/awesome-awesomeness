@@ -329,6 +329,7 @@ A curated list of amazingly awesome awesomeness.
 	- [SVG](https://github.com/willianjusten/awesome-svg)
 	- [Swedish](https://github.com/gurre/awesome-swedish-opensource)
 	- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
+	- [Taglines](https://github.com/miketheman/awesome-taglines)
 	- [Tailwind CSS](https://github.com/merchedhq/awesome-tailwindcss)
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
