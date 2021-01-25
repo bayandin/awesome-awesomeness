@@ -110,6 +110,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Arduino](https://github.com/Lembed/Awesome-arduino)
 	- [Artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 	- API
+	        - [by @apis-list](https://github.com/apis-list/apis-list)
 		- [by @Kikobeats](https://github.com/Kikobeats/awesome-api)
 		- [by @toddmotto](https://github.com/toddmotto/public-apis)
 	- [Apple](https://github.com/joeljfischer/awesome-apple)
