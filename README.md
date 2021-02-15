@@ -55,6 +55,7 @@ A curated list of amazingly awesome awesomeness.
 	- [MongoDB](https://github.com/ramnes/awesome-mongodb)
 	- [MySQL](https://github.com/shlomi-noach/awesome-mysql)
 	- .NET
+	        - [by @mehdihadeli](https://github.com/mehdihadeli/awesome-dotnet-architecture)
 		- [by @mehdihadeli](https://github.com/mehdihadeli/awesome-dotnet-async)
 	        - [by @mehdihadeli](https://github.com/mehdihadeli/awesome-dotnet-core-education)
 		- [by @quozd](https://github.com/quozd/awesome-dotnet)
