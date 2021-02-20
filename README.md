@@ -104,6 +104,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 	- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 	- [Android](https://github.com/JStumpp/awesome-android)
+		- [Android Apps](https://github.com/LinuxCafeFederation/awesome-android)
 		- [Android Release Notes](https://github.com/pedronveloso/awesome-android-release-notes)
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 		- [Android UI](https://github.com/wasabeef/awesome-android-ui)
