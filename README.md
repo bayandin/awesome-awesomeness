@@ -43,6 +43,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Koa](https://github.com/ellerbrock/awesome-koa)
 		- [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 			- [Cross-platform Node.js](https://github.com/bcoe/awesome-cross-platform-nodejs)
+			- [Node ESM](https://github.com/talentlessguy/awesome-node-esm)
 		- [React](https://github.com/enaqx/awesome-react)
 		- [Svelte](https://github.com/flagello/awesome-sveltejs)
 		- [VueJS](https://github.com/vuejs/awesome-vue)
