@@ -202,6 +202,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 	- [Electron](https://github.com/sindresorhus/awesome-electron)
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
+	- [Embedded](https://github.com/nhivp/Awesome-Embedded)
 	- [Ethics](https://github.com/HussainAther/awesome-ethics)
 	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 	- [FastAPI](https://github.com/mjhea0/awesome-fastapi)
