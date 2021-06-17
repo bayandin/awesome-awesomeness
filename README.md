@@ -5,7 +5,7 @@ A curated list of amazingly awesome awesomeness.
     - [Package-Manager](https://github.com/damon-kwok/awesome-package-manager)
 
 - Programming Languages
-	- [Ada](https://github.com/ohenley/awesome-ada)	
+	- [Ada/Spark](https://github.com/ohenley/awesome-ada)	
 	- [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
