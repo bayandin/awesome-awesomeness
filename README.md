@@ -233,7 +233,9 @@ A curated list of amazingly awesome awesomeness.
 	- Guides
 		- [by @narkoz](https://github.com/narkoz/guides)
 		- [by @RichardLitt](https://github.com/RichardLitt/awesome-styleguides)
-	- [Hacking](https://github.com/carpedm20/awesome-hacking)
+	- Hacking
+		- [by @carpedm20](https://github.com/carpedm20/awesome-hacking)
+		- [by @Hack-with-Github](https://github.com/Hack-with-Github/Awesome-Hacking)
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Honeypots](https://github.com/paralax/awesome-honeypots)
 	- [Hyper](https://github.com/bnb/awesome-hyper)
