@@ -242,6 +242,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Incident Response](https://github.com/meirwah/awesome-incident-response)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [Image coloring](https://github.com/oskar-j/awesome-image-coloring)
+	- [Internationalization](https://github.com/jpomykala/awesome-i18n)
 	- [Internet of Things (IOT)](https://github.com/HQarroum/awesome-iot)
 	- [iOS](https://github.com/vsouza/awesome-ios)
 		- [Cocoa Controls](https://github.com/v-braun/awesome-cocoa)
