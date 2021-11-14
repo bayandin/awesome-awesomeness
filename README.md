@@ -213,6 +213,7 @@ A curated list of amazingly awesome awesomeness.
 	- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
 	- [Flutter](https://github.com/Solido/awesome-flutter)
 	- [Fonts](https://github.com/brabadu/awesome-fonts)
+	- [Free Open Source Software (FOSS)](https://github.com/ishanvyas22/awesome-open-source-systems)
 	- [Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
 	- [Free Services](https://github.com/ripienaar/free-for-dev)
 	- Frontend
