@@ -13,6 +13,7 @@ A curated list of amazingly awesome awesomeness.
 	- [C/C++](https://github.com/fffaraz/awesome-cpp)
 	- [CMake](https://github.com/onqtam/awesome-cmake)
 	- Clojure
+        - [by @damon-kwok](https://github.com/damon-kwok/awesome-clojure)
 		- [by @mbuczko](https://github.com/mbuczko/awesome-clojure)
 		- [by @razum2um](https://github.com/razum2um/awesome-clojure)
 	- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
