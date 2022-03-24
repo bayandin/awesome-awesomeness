@@ -177,6 +177,7 @@ A curated list of amazingly awesome awesomeness.
 	- [CSS](https://github.com/sotayamashita/awesome-css)
 		- [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 	- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
+		- [Notebooks](https://github.com/jupyter-naas/awesome-notebooks) 
 		- Data Science with Python
 		  	- [by @r0f1](https://github.com/r0f1/datascience)
 			- [by @krzjoa](https://github.com/krzjoa/awesome-python-data-science)
