@@ -66,6 +66,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Perl](https://github.com/hachiojipm/awesome-perl)
 	- [PHP](https://github.com/ziadoz/awesome-php)
 		- [CakePHP](https://github.com/FriendsOfCake/awesome-cakephp)
+		- [Slim](https://github.com/nekofar/awesome-slim)
 	- [Postgres](https://github.com/dhamaniasad/awesome-postgres)
 	- Python
 		- [by @kirang89](https://github.com/kirang89/pycrumbs)
