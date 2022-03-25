@@ -307,6 +307,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @thibmaek](https://github.com/thibmaek/awesome-raspberry-pi)
 	- [React Native](https://github.com/jondot/awesome-react-native)
 	- [README](https://github.com/matiassingers/awesome-readme)
+	- [Reddit Channels](https://github.com/MadhuNimmo/awesome-reddit-channels)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
