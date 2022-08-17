@@ -264,6 +264,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 		- [Linux resources](https://github.com/itech001/awesome-linux-resources)
 		- [Linux software](https://github.com/luong-komorebi/Awesome-Linux-Software)
+		- [Wayland](https://github.com/natpen/awesome-wayland)
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
 		- [by @jnv](https://github.com/jnv/lists)
