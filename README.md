@@ -260,6 +260,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Laravel](https://github.com/chiraggude/awesome-laravel)
 	- [Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
 	- [Lego](https://github.com/adius/awesome-lego)
+	- [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol)
 	- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 	- [Linux resources](https://github.com/itech001/awesome-linux-resources)
 	- Lists
