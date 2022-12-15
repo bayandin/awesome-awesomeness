@@ -243,6 +243,7 @@ A curated list of amazingly awesome awesomeness.
 	- [HTML5](https://github.com/diegocard/awesome-html5)
 	- [Honeypots](https://github.com/paralax/awesome-honeypots)
 	- [Hyper](https://github.com/bnb/awesome-hyper)
+	- [Identity and Access Management](https://github.com/kdeldycke/awesome-iam)
 	- [Incident Response](https://github.com/meirwah/awesome-incident-response)
 	- [Images](https://github.com/heyalexej/awesome-images)
 	- [Image coloring](https://github.com/oskar-j/awesome-image-coloring)
