@@ -126,6 +126,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @onurakpolat](https://github.com/onurakpolat/awesome-bigdata)
 		- [by @zenkay](https://github.com/zenkay/bigdata-ecosystem)
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+	- [Billing](https://github.com/kdeldycke/awesome-billing)
 	- [Blazor](https://github.com/AdrienTorris/awesome-blazor)
 	- Blockchain
 		- [by @0xtokens](https://github.com/0xtokens/awesome-blockchain)
