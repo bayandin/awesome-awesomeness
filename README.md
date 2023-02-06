@@ -100,6 +100,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @a11yproject](https://github.com/a11yproject/a11yproject.com)
 		- [by @brunopulis](https://github.com/brunopulis/awesome-a11y)
 	- [Agile](https://github.com/lorabv/awesome-agile)
+	- [AI Collection](https://github.com/ai-collection/ai-collection)
 	- [Algolia](https://github.com/algolia/awesome-algolia)
 	- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 		- [Algorithms Visualisation](https://github.com/enjalot/algovis)
