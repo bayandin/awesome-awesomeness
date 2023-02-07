@@ -56,6 +56,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @lewisjellis](https://github.com/LewisJEllis/awesome-lua)
 	- [MongoDB](https://github.com/ramnes/awesome-mongodb)
 	- [MySQL](https://github.com/shlomi-noach/awesome-mysql)
+	- [Neo4j](https://github.com/neo4j-contrib/awesome-neo4j)
 	- .NET
 	        - [by @mehdihadeli](https://github.com/mehdihadeli/awesome-dotnet-core-education)
 		- [by @quozd](https://github.com/quozd/awesome-dotnet)
