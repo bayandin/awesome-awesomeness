@@ -269,7 +269,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Mac]
 		- [by @xyNNN](https://github.com/xyNNN/awesome-mac)
 		- [by @justin-j](https://github.com/justin-j/awesome-mac-apps)
-	- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+	- [Machine Learning](https://github.com/zhimin-z/awesome-awesome-machine-learning)
 	- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 	- [Material Design](https://github.com/sachin1092/awesome-material)
 	- [Math](https://github.com/rossant/awesome-math)
