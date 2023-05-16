@@ -5,7 +5,7 @@ A curated list of amazingly awesome awesomeness.
     - [Package-Manager](https://github.com/damon-kwok/awesome-package-manager)
 
 - Programming Languages
-	- [Ada(Spark)](https://github.com/ohenley/awesome-ada)	
+	- [Ada(Spark)](https://github.com/ohenley/awesome-ada)
 	- [Ansible](https://github.com/jdauphant/awesome-ansible)
 	- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 	- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
@@ -178,7 +178,7 @@ A curated list of amazingly awesome awesomeness.
 	- [CSS](https://github.com/sotayamashita/awesome-css)
 		- [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
 	- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
-		- [Notebooks](https://github.com/jupyter-naas/awesome-notebooks) 
+		- [Notebooks](https://github.com/jupyter-naas/awesome-notebooks)
 		- Data Science with Python
 		  	- [by @r0f1](https://github.com/r0f1/datascience)
 			- [by @krzjoa](https://github.com/krzjoa/awesome-python-data-science)
@@ -300,6 +300,7 @@ A curated list of amazingly awesome awesomeness.
 	- Protocols
 		- [OSC](https://github.com/amir-arad/awesome-osc) (open sound control)
 	- [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+	- [Prompt Engineering](https://github.com/DukeLuo/awesome-awesome-prompts)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [Random-Forest](https://github.com/kjw0612/awesome-random-forest)
 	- Raspberry Pi
