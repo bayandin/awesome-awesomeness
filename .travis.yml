@@ -1,12 +1,13 @@
 language: ruby
 rvm:
-    - 2.6
+  - 2.6
+
 before_script:
   - gem install awesome_bot
   - gem install danger
   - gem install octokit
-  
+
 script:
-  - git diff master.. -U0 README.md | grep -Po "(?<=^\+).*" >> temp.md
+  - git diff origin/master.. -U0 README.md | awk '/^\+/{print substr($0, 2)}' >> temp.md
   - awesome_bot temp.md --allow-redirect
   - danger --verbose
