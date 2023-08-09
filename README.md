@@ -193,6 +193,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @guillaume-chevalier](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 		- [by @tigerneil](https://github.com/tigerneil/awesome-deep-rl)
 		- [by @nerox8664](https://github.com/nerox8664/awesome-computer-vision-models)
+                - [by @partheee](https://github.com/partheee/awesome-models)
 	- [Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
 	- [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 	- [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
