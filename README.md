@@ -177,6 +177,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Crypto Papers](https://github.com/pFarb/awesome-crypto-papers)
 	- [CSS](https://github.com/sotayamashita/awesome-css)
 		- [CSS Frameworks](https://github.com/troxler/awesome-css-frameworks)
+  	- [Custom GPTs](https://github.com/taranjeet/awesome-gpts/) 
 	- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
 		- [Notebooks](https://github.com/jupyter-naas/awesome-notebooks) 
 		- Data Science with Python
@@ -230,7 +231,7 @@ A curated list of amazingly awesome awesomeness.
 	- [GitHub](https://github.com/Kikobeats/awesome-github)
 		- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 		- [GitHub - Chinese](https://github.com/AntBranch/awesome-github)
-	- [Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+  	- [Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
 	- [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification)
 	- [GraphQL](https://github.com/chentsulin/awesome-graphql)
 	- [Growth Hacking](https://github.com/btomashvili/awesome-growth-hacking)
