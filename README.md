@@ -299,7 +299,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Product Manager](https://github.com/hugo53/awesome-ProductManager)
 	- Protocols
 		- [OSC](https://github.com/amir-arad/awesome-osc) (open sound control)
-	- [Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets)
+	- [Pentest Cheat Sheets](https://github.com/ByteSnipers/awesome-pentest-cheat-sheets)
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 	- [Random-Forest](https://github.com/kjw0612/awesome-random-forest)
 	- Raspberry Pi
