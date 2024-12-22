@@ -37,6 +37,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Haskell](https://github.com/krispo/awesome-haskell)
 	- [Idris](https://github.com/joaomilho/awesome-idris)
 	- [Java](https://github.com/akullpp/awesome-java)
+   		- [J2ME](https://github.com/hstsethi/awesome-j2me)
 	- [JavaScript](https://github.com/sorrycc/awesome-javascript)
 		- [Angular 2](https://github.com/AngularClass/awesome-angular)
 		- [Ember.js](https://github.com/nmec/awesome-ember)
