@@ -112,6 +112,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Android Security](https://github.com/ashishb/android-security-awesome)
 		- [Android UI](https://github.com/wasabeef/awesome-android-ui)
 	- [ARM Exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation)
+ 	- [ASPM - Application Security](https://github.com/jpalanco/awesome-aspm/) 
 	- [Software Architecture](https://github.com/simskij/awesome-software-architecture)
 	- [Arduino](https://github.com/Lembed/Awesome-arduino)
 	- [Artificial intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
