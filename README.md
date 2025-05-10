@@ -309,6 +309,7 @@ A curated list of amazingly awesome awesomeness.
 	- [README](https://github.com/matiassingers/awesome-readme)
 	- [Regex](https://github.com/aloisdg/awesome-regex)
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
+	- [AI Companies Job](https://github.com/zerone0x/awesome-AI-company)
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 	- [REST](https://github.com/marmelab/awesome-rest)
 	- [Robotics](https://github.com/Kiloreux/awesome-robotics)
