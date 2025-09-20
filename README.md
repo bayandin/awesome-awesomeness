@@ -1,6 +1,6 @@
-# Awesome Awesomeness
+# Harika Harikalıklar
 
-A curated list of amazingly awesome awesomeness.
+İnanılmaz derecede harika kaynakların derlenmiş listesi.
 - Programming Languages Package Manager
     - [Package-Manager](https://github.com/damon-kwok/awesome-package-manager)
 

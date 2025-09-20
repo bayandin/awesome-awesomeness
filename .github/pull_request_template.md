@@ -1,16 +1,16 @@
-<!-- Please fill in the **bold** fields, submit the pull request and tick the checkboxes. DO NOT SUBMIT ANYTHING IF YOU FAIL ANY OF THIS RULES -->
+<!-- Lütfen **kalın** alanları doldurun, çekme isteğini gönderin ve onay kutularını işaretleyin. BU KURALLARDAN HERHANGİ BİRİNİ İHLAL EDERSENİZ HİÇBİR ŞEY GÖNDERMEYİN. -->
 
-**[Insert URL to the list here.]**
+**[Liste bağlantısını buraya ekleyin.]**
 
-**[Explain what this list is about and why it should be included here.]**
+**[Bu listenin ne hakkında olduğunu ve neden buraya eklenmesi gerektiğini açıklayın.]**
 
 
-# By submitting this pull request I confirm I've read and complied with the below requirements.
+# Bu çekme isteğini göndererek aşağıdaki gereksinimleri okuduğumu ve bunlara uyduğumu onaylıyorum.
 
-Failure to properly do so will just result in the pull request being closed and everyone's time wasted. Please read it twice. Most people miss many things.
+Bunları doğru şekilde yapmamak, çekme isteğinin kapatılmasına ve herkesin zamanının boşa harcanmasına neden olacaktır. Lütfen iki kez okuyun. Çoğu insan birçok şeyi gözden kaçırıyor.
 
-- [ ] I have read and understood the [contribution guidelines](https://github.com/bayandin/awesome-awesomeness/blob/master/CONTRIBUTING.md).
-- [ ] This pull request has a descriptive title. For example, `Add [Name of List]`, not `Update readme.md` or `Add an awesome list`.
-- [ ] The list I added **has been around for at least 20 days**,
-- [ ] The list I added is a non-generated Markdown file in a GitHub repo,
-- [ ] The list I added is not a duplicate
+- [ ] [Katkıda bulunma kurallarını](https://github.com/bayandin/awesome-awesomeness/blob/master/CONTRIBUTING.md) okudum ve anladım.
+- [ ] Bu çekme isteğinin açıklayıcı bir başlığı var. Örneğin, `[Liste Adı Ekle]`, `readme.md'yi güncelle` veya `harika bir liste ekle` değil.
+- [ ] Eklediğim liste **en az 20 gündür yayında**,
+- [ ] Eklediğim liste, bir GitHub deposunda oluşturulmamış bir Markdown dosyasıdır,
+- [ ] Eklediğim liste bir kopya değil

@@ -1,52 +1,52 @@
-# Contribution Guidelines
+# Katkıda Bulunma Kuralları
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Lütfen bu projenin bir [Katkıda Bulunan Davranış Kuralları](code-of-conduct.md) ile yayınlandığını unutmayın. Bu projeye katılarak bu kurallara uymayı kabul etmiş olursunuz.
 
-# The pull request should have a useful title. Pull requests with `Update readme.md` as title will be closed right away because I'm so tired of nobody reading this document. Please carefully read everything in `Adding to this list`.
+# Çekme isteklerinizin açıklayıcı bir başlığı olmalıdır. Başlığı sadece `Update readme.md` olan çekme istekleri hemen kapatılacaktır çünkü bu belgeyi kimsenin okumadığından çok yoruldum. Lütfen `Bu listeye ekleme` bölümündeki her şeyi dikkatlice okuyun.
 
-## Table of Contents
+## İçindekiler
 
-- [Adding to this list](#adding-to-this-list)
-- [Creating your own awesome list](#creating-your-own-awesome-list)
-- [Adding something to an awesome list](#adding-something-to-an-awesome-list)
-- [Updating your Pull Request](#updating-your-pull-request)
+- [Bu listeye ekleme](#bu-listeye-ekleme)
+- [Kendi harika listenizi oluşturma](#kendi-harika-listenizi-olusturma)
+- [Harika bir listeye bir şeyler ekleme](#harika-bir-listeye-bir-seyler-ekleme)
+- [Çekme İsteğinizi Güncelleme](#cekme-isteginizi-guncelleme)
 
-## Adding to this list
+## Bu listeye ekleme
 
-Please ensure your pull request adheres to the following guidelines:
+Lütfen çekme isteğinizin aşağıdaki kurallara uyduğundan emin olun:
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make an individual pull request for each suggestion.
-- Chose corresponding section (Programming Languages or General) for your suggestion.
-- Use the following format: `[List Name `**without awesome**`](link)`
-- Use the following format for commit message: `Add Language Name` (without 'awesome' or something else).
-- New categories or improvements to the existing categorization are welcome.
-- Check your spelling and grammar.
-- List, after your addition, should be alphabetically.
-- The pull request and commit should have a useful title.
-- The body of your commit message should contain a link to the repository.
+- Yeni bir öneride bulunmadan önce daha önceki önerileri arayın, çünkü sizinki bir kopya olabilir.
+- Her öneri için ayrı bir çekme isteği oluşturun.
+- Öneriniz için ilgili bölümü seçin (Programlama Dilleri veya Genel).
+- Aşağıdaki formatta yazın: `[Liste Adı `**awesome olmadan**`](bağlantı)`
+- Commit mesajı için şu formatta yazın: `Dil Adı Ekle` ('awesome' veya başka bir şey olmadan).
+- Yeni kategoriler veya mevcut kategorizasyonda iyileştirmeler memnuniyetle karşılanır.
+- Yazım ve dil bilgisi kurallarını kontrol edin.
+- Listeniz, eklemenizden sonra alfabetik sırada olmalıdır.
+- Çekme isteği ve commit yararlı bir başlığa sahip olmalıdır.
+- Commit mesajınızın gövdesi, deponun bağlantısını içermelidir.
 
-Thank you for your suggestions!
+Önerileriniz için teşekkür ederiz!
 
-## Creating your own awesome list
+## Kendi harika listenizi oluşturma
 
-To create your own list, check out the [instructions](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
+Kendi listenizi oluşturmak için [talimatları](https://github.com/sindresorhus/awesome/blob/master/create-list.md) inceleyin.
 
-## Adding something to an awesome list
+## Harika bir listeye bir şeyler ekleme
 
-If you have something awesome to contribute to an awesome list, this is how you do it.
+Harika bir listeye katkıda bulunmak istediğiniz harika bir şeyiniz varsa, işte nasıl yapacağınız:
 
-You'll need a [GitHub account](https://github.com/join)!
+Bir [GitHub hesabına](https://github.com/join) ihtiyacınız olacak!
 
-1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
-2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](http://i.imgur.com/GhdkURj.png)
-3. Now click on the edit icon. ![Step 3 - Click on Edit](http://i.imgur.com/oEgWdc5.png)
-4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). 
-5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](http://i.imgur.com/nGtERxd.png)
-6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!![Step 6 - Submit pull](http://i.imgur.com/0OW5V7a.png)
+1. İlgili harika listenin GitHub sayfasına gidin. Örneğin: https://github.com/sindresorhus/awesome
+2. `readme.md` dosyasına tıklayın: ![2. Adım Readme.md'ye Tıklayın](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
+3. Şimdi düzenleme simgesine tıklayın. ![3. Adım - Düzenle'ye Tıklayın](https://cloud.githubusercontent.com/assets/170270/9402927/6506af22-480c-11e5-8c18-7ea823530099.png)
+4. Dosyanın metnini tarayıcı içi düzenleyicide düzenlemeye başlayabilirsiniz. Yukarıdaki kurallara uyduğunuzdan emin olun. [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) kullanabilirsiniz. ![4. Adım - Dosyayı Düzenleyin](https://cloud.githubusercontent.com/assets/170270/9402932/7301c3a0-480c-11e5-81f5-7e343b71674f.png)
+5. Neden bu değişikliği önerdiğinizi açıklayın ve ardından "Değişiklikleri Öner"e tıklayın. ![5. Adım - Değişiklikleri Önerin](https://cloud.githubusercontent.com/assets/170270/9402937/7ddcdbbe-480c-11e5-9138-bd14244593d5.png)
+6. [Çekme isteğini](https://help.github.com/articles/using-pull-requests/) gönderin!
 
-## Updating your Pull Request
+## Çekme İsteğinizi Güncelleme
 
-Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
+Bazen, bir harika listenin bakımcısı, çekme isteğinizin listeye eklenmeden önce düzenlenmesini isteyebilir. Bu genellikle yazım hataları veya çekme isteğinizin awesome-* liste kurallarına uymaması nedeniyle olur.
 
-[Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request, and the different ways you can do that.
+Bir Çekme İsteğini nasıl değiştireceğiniz ve bunu yapmanın farklı yolları hakkında [burada](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) bir rehber bulabilirsiniz.
