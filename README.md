@@ -314,6 +314,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Robotics](https://github.com/Kiloreux/awesome-robotics)
 	- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling)
 	- [RNN](https://github.com/kjw0612/awesome-rnn)
+ 	- [Safety Tools](https://github.com/roostorg/awesome-safety-tools)
 	- [Scalability](https://github.com/binhnguyennus/awesome-scalability)
 	- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
 	- Search Engine Optimization (SEO)
