@@ -28,6 +28,22 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
+### Criteria for Awesome Lists
+
+To maintain a high-quality and useful collection, please ensure that any list you propose meets the following criteria:
+
+- The list is actively maintained (recent commits or updates within the last 6–12 months).
+- The list has a clear scope and purpose described in its README.
+- The list follows the general principles of the “awesome” philosophy:
+  - Curated content (not a random dump of links).
+  - Clear categorization.
+  - Concise descriptions for each entry.
+- The list has a reasonable number of stars or community interest, or shows clear signs of growth.
+- The list content is relevant to its category (Programming Languages or General).
+- The list does not primarily exist for self-promotion.
+
+Lists that do not meet these criteria may be rejected, even if they follow the formatting guidelines.
+
 ## Creating your own awesome list
 
 To create your own list, check out the [instructions](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
