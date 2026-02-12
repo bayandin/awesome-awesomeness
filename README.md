@@ -360,6 +360,7 @@ A curated list of amazingly awesome awesomeness.
 	- [UNIX](https://github.com/sirredbeard/Awesome-UNIX)
 	- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 	- [Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)
+	- [Vibe Coding](https://github.com/taskade/awesome-vibe-coding)
 	- Vim
 		- [by @akrawchyk](https://github.com/akrawchyk/awesome-vim)
 		- [by @matteocrippa](https://github.com/matteocrippa/awesome-vim)
