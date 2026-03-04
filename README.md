@@ -311,6 +311,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Remote Job](https://github.com/lukasz-madon/awesome-remote-job)
 	- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
 	- [REST](https://github.com/marmelab/awesome-rest)
+	- [Awesome RISC-V Resources](https://github.com/suryakantamangaraj/awesome-riscv-resources#readme)
 	- [Robotics](https://github.com/Kiloreux/awesome-robotics)
 	- [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling)
 	- [RNN](https://github.com/kjw0612/awesome-rnn)
