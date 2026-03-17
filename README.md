@@ -160,6 +160,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Capacitor](https://github.com/riderx/awesome-capacitor)
 	- [Captcha](https://github.com/ZYSzys/awesome-captcha)
 	- [Challenges](https://github.com/mauriciovieira/awesome-challenges)
+	- [Claude Code](https://github.com/ykdojo/awesome-awesome-claude-code)
 	- [Code Formatters](https://github.com/rishirdua/awesome-code-formatters)
 	- [Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
 	- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
