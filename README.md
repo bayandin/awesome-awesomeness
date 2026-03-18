@@ -148,6 +148,7 @@ A curated list of amazingly awesome awesomeness.
 			- [by @Tom2718](https://github.com/Tom2718/Awesome-Ethereum)
 		- [Ripple](https://github.com/vhpoet/awesome-ripple)
 	- [Boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
+	- [Bounties](https://github.com/Scottcjn/awesome-agent-bounties) – Open source projects that pay contributors and AI agents for code, docs, and security work.
 	- Books
 		- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 		- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books)
