@@ -372,6 +372,7 @@ A curated list of amazingly awesome awesomeness.
 	- XMPP
 		- [Ejabberd](https://github.com/shantanu-deshmukh/awesome-ejabberd)
 	- [Typography](https://github.com/Jolg42/awesome-typography)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent development orchestration, automated code review, and workflow coordination. MIT licensed.
 
 ## License
 
