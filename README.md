@@ -262,6 +262,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Lego](https://github.com/adius/awesome-lego)
 	- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 	- [Linux resources](https://github.com/itech001/awesome-linux-resources)
+	- [LLM Token Optimization](https://github.com/pleasedodisturb/awesome-llm-token-optimization)
 	- Lists
 		- [by @bayandin](https://github.com/bayandin/awesome-awesomeness)
 		- [by @jnv](https://github.com/jnv/lists)
