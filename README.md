@@ -291,6 +291,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @mpron](https://github.com/mpron/awesome-newsletters)
 	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 	- [Open Science](https://github.com/silky/awesome-open-science)
+	- [Open Source AI](https://github.com/alvinreal/awesome-opensource-ai)
 	- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
