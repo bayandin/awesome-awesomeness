@@ -137,6 +137,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @istinspring](https://github.com/istinspring/awesome-blockchain)
 		- [by @openblockchains](https://github.com/openblockchains/awesome-blockchains)
 		- [by @kennethreitz](https://github.com/kennethreitz/awesome-coins)
+		- [Crypto MCP Servers](https://github.com/hive-intel/awesome-crypto-mcp-servers)
 		- [awesome-token-sale](https://github.com/holographicio/awesome-token-sale)
 		- Bitcoin
 			- [by @btcbrdev](https://github.com/btcbrdev/awesome-btcdev)
