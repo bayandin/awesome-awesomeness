@@ -223,6 +223,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @moklick](https://github.com/moklick/frontend-stuff)
 	- [Game Development](https://github.com/ellisonleao/magictools)
 	- [Games](https://github.com/leereilly/games)
+	- [Meccha Chameleon Hide Spots](https://github.com/zlc000190/awesome-meccha-chameleon-hide-spots#readme)
 	- GIF
 		- [by @Kikobeats](https://github.com/Kikobeats/awesome-gif)
 	- [Gists](https://github.com/vsouza/awesome-gists)
