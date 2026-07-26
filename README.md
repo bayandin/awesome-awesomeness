@@ -304,6 +304,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Random-Forest](https://github.com/kjw0612/awesome-random-forest)
 	- Raspberry Pi
 		- [by @blackout314](https://github.com/blackout314/awesome-raspberry-pi)
+		- [by @erkcet](https://github.com/erkcet/awesome-raspberry-pi)
 		- [by @thibmaek](https://github.com/thibmaek/awesome-raspberry-pi)
 	- [React Native](https://github.com/jondot/awesome-react-native)
 	- [README](https://github.com/matiassingers/awesome-readme)
