@@ -347,6 +347,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 		- [Gaming](https://github.com/hzoo/awesome-gametalks)
 	- [Telegram](https://github.com/ebertti/awesome-telegram)
+	- [Telegram Bots](https://github.com/erkcet/awesome-telegram-bots)
 	- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
 	- [Test Automation](https://github.com/atinfo/awesome-test-automation)
 	- [Testing](https://github.com/TheJambo/awesome-testing)
