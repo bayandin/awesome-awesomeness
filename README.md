@@ -256,6 +256,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Jupyter](https://github.com/markusschanta/awesome-jupyter)
 	- [JVM](https://github.com/deephacks/awesome-jvm)
 	- [Kafka](https://github.com/monksy/awesome-kafka)
+	- [Kindle Workflows](https://github.com/erkcet/awesome-kindle-workflows)
 	- [Koans](https://github.com/ahmdrefat/awesome-koans)
 	- [Laravel](https://github.com/chiraggude/awesome-laravel)
 	- [Leadership and Management](https://github.com/LappleApple/awesome-leading-and-managing)
