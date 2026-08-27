@@ -128,6 +128,7 @@ A curated list of amazingly awesome awesomeness.
 		- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 	- [Blazor](https://github.com/AdrienTorris/awesome-blazor)
 	- Blockchain
+    - [awesome-web3-security](https://github.com/ezequiellich44-cmd/awesome-web3-security) - Curated list of Web3 security tools, resources, checklists, and best practices. Secret scanning, smart contract auditing, runtime protection, key management, compliance.
 		- [by @0xtokens](https://github.com/0xtokens/awesome-blockchain)
 		- [by @imbaniac](https://github.com/imbaniac/awesome-blockchain)
 		- [by @coderplex](https://github.com/coderplex/awesome-blockchain)
