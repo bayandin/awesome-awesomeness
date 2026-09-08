@@ -80,6 +80,7 @@ A curated list of amazingly awesome awesomeness.
 		- [by @Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 		- [by @asyraffff](https://github.com/asyraffff/Open-Source-Ruby-and-Rails-Apps)
 	- [Rust](https://github.com/rust-unofficial/awesome-rust)
+	- [Awesome Rust Migrations](https://github.com/kevincouton/awesome-rust-migrations)
 	- [SAS](https://github.com/huyingjie/awesome-SAS)
 	- [Scala](https://github.com/lauris/awesome-scala)
 	- [Shell](https://github.com/alebcay/awesome-shell)
