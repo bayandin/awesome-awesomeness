@@ -292,6 +292,7 @@ A curated list of amazingly awesome awesomeness.
 	- [No Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps)
 	- [Open Science](https://github.com/silky/awesome-open-science)
 	- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
+	- [Opsgenie Alternatives](https://github.com/spikehq/awesome-opsgenie-alternatives)
 	- [Papers](https://github.com/papers-we-love/papers-we-love)
 	- [Podcasts](https://github.com/Ghosh/awesome-podcasts)
 	- [Philosophy](https://github.com/HussainAther/awesome-philosophy)
