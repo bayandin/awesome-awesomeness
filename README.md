@@ -331,6 +331,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Sound](https://github.com/hwclass/awesome-sound)
 	- [Space](https://github.com/elburz/awesome-space)
 		- [Books and manuals](https://github.com/Hunter-Github/awesome-space-books)
+	- [Spain](https://github.com/GeiserX/awesome-spain#readme) - Open source software for Spain including e-government, tax systems, and autonomous communities.
 	- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 		- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
 	- [Sphinx Documentation](https://github.com/yoloseem/awesome-sphinxdoc)
