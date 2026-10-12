@@ -208,6 +208,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 	- [Embedded](https://github.com/nhivp/Awesome-Embedded)
 	- [Ethics](https://github.com/HussainAther/awesome-ethics)
+	- [Europe](https://github.com/GeiserX/awesome-europe#readme) - Open source software for European institutions, regulations, standards, and cross-border infrastructure.
 	- [Falsehood](https://github.com/kdeldycke/awesome-falsehood)
 	- [FastAPI](https://github.com/mjhea0/awesome-fastapi)
 	- [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc)
