@@ -197,6 +197,7 @@ A curated list of amazingly awesome awesomeness.
 	- [Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 	- [Design Tools](https://github.com/LisaDziuba/Awesome-Design-Tools)
 	- [Design](https://github.com/gztchan/awesome-design)
+    - [Digital Signage](https://github.com/awesome-digital-signage/awesome-digital-signage)
 	- [Dev Env](https://github.com/jondot/awesome-devenv)
 	- [DevOps](https://github.com/joubertredrat/awesome-devops)
 	- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops)
